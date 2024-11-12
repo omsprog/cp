@@ -23,3 +23,5 @@ Space complexity: How much auxiliary memory is needed to run the algorithm
     - Brute Force
     - Linear algorithm
 - [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
+- [K-th symbol in grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/submissions/1451024575/):
+    - Brute Force
