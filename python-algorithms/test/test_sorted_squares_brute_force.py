@@ -1,4 +1,4 @@
-from src.sorted_squares import SortedSquares
+from src.sorted_squares_brute_force import SortedSquares
 
 def test_sortedSquares():
     sS = SortedSquares()
