@@ -22,3 +22,4 @@ Space complexity: How much auxiliary memory is needed to run the algorithm
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/):
     - Brute Force
     - Linear algorithm
+- [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
