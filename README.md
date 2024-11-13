@@ -14,15 +14,21 @@ Space complexity: How much auxiliary memory is needed to run the algorithm
 
 ## Links
 
+- [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
 
-## Problems
+## Fundamentals
 
 - Fibonacci sequence with memoization
 - Fibonacci sequence iterative
-- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/):
+
+## Problems
+
+
+1. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/):
     - Brute Force `O(n log n)`
     - Linear algorithm `O(n)`
-- [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) `O(n)`
-- [K-th symbol in grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/submissions/1451024575/):
+2. [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) `O(n)`
+3. [K-th symbol in grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/submissions/1451024575/):
     - Brute Force `O(2 ^ n)`  
     - Two Pointers (Binary Search Tree) `O(n)`
+4. [Sign of the product of an array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) 
