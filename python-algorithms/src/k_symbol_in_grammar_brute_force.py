@@ -1,12 +1,10 @@
-from typing import List
-
 # 0
 # 01
 # 0110
 # 01101001
 # 0110100110010110
 
-class KSymbolInGrammar:
+class KSymbolInGrammarBruteForce:
 
     def kthGrammar(self, n: int, k: int) -> int:
         myStr = "0"
