@@ -9,19 +9,10 @@ class ListNode:
 # Output: [7,0,8]
 
 class AddTwoNumbers:
-    def listToNode(self, lst):
-        head = ListNode(lst[0])
-        current = head
-        
-        for value in lst[1:]:
-            current.next = ListNode(value)
-            current = current.next
-    
-        return head
-
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        resuls = []
         carry = False
+        head = ListNode(10) # Dummy node to keep a reference to the First element of the LL, value does not matter
+        currentNode = head
 
         # for index in range(0, len(longerList)):
         while l1 is not None or l2 is not None:
@@ -43,7 +34,8 @@ class AddTwoNumbers:
                 carry = True
                 sum -= 10
             
-            resuls.append(sum)
+            currentNode.next = ListNode(sum)
+            currentNode = currentNode.next
             
             if(l1 is not None):
                 l1 = l1.next
@@ -51,6 +43,7 @@ class AddTwoNumbers:
                 l2 = l2.next
 
         if(carry):
-            resuls.append(1)
+            currentNode.next = ListNode(1)
+            currentNode = currentNode.next
 
-        return self.listToNode(resuls)
+        return head.next

@@ -1,4 +1,4 @@
-## Fundamentals
+## Concepts
 
 Time complexity from worst to best  
 
@@ -37,4 +37,4 @@ Space complexity: How much auxiliary memory is needed to run the algorithm
 6. [Two sum](https://leetcode.com/problems/two-sum/description/)
     - Brute Force `O(n ^ 2)`
     - Optimal using HashMap `O(n)`
-    
+7. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) `O(n)`    
