@@ -36,4 +36,5 @@ Space complexity: How much auxiliary memory is needed to run the algorithm
 5. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) `O(n)`
 6. [Two sum](https://leetcode.com/problems/two-sum/description/)
     - Brute Force `O(n ^ 2)`
+    - Optimal using HashMap `O(n)`
     
