@@ -39,3 +39,4 @@ Space complexity: How much auxiliary memory is needed to run the algorithm
     - Optimal using HashMap `O(n)`
 7. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) `O(n)`    
 8. [Binary Search](https://leetcode.com/problems/binary-search/description/) `O(log n)`
+9. [Sqrt](https://leetcode.com/problems/sqrtx) `O(log n)` 

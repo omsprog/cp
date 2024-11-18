@@ -6,8 +6,6 @@ class BinarySearch:
         pointerB = len(nums) -1
 
         while pointerA <= pointerB:
-            if pointerB < 0:
-                return -1         
             midPoint = (pointerA + pointerB) // 2
             
             if nums[midPoint] > target:
