@@ -40,3 +40,4 @@ Space complexity: How much auxiliary memory is needed to run the algorithm
 7. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) `O(n)`    
 8. [Binary Search](https://leetcode.com/problems/binary-search/description/) `O(log n)`
 9. [Sqrt](https://leetcode.com/problems/sqrtx) `O(log n)` 
+10. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) `O(n)`

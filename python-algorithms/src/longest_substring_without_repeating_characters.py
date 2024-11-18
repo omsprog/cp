@@ -14,15 +14,12 @@ class LongestSubstringWithoutRepeatingCharacters:
                 while pointerA <= indexOfDuplicated:
                     del visited[s[pointerA]]
                     pointerA = pointerA + 1
-                
-                visited[s[pointerB]] = pointerB
-                pointerB = pointerB + 1
             else:
                 delta = pointerB - pointerA + 1
-                visited[s[pointerB]] = pointerB
-                pointerB = pointerB + 1
-                
                 if delta > longest:
                     longest = delta
+
+            visited[s[pointerB]] = pointerB
+            pointerB = pointerB + 1
 
         return longest                
