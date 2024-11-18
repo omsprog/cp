@@ -5,7 +5,7 @@ class TwoSumOptimal:
         auxDic = {}
         index = 0
         for val in nums:
-            if(target - val in auxDic):
+            if target - val in auxDic:
                 return [auxDic[target - val], index] 
             else:
                 auxDic[val] = index
