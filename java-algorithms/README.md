@@ -6,3 +6,6 @@
 2. [Counting Words with a Given String](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
    - Linear algorithm `O(n)`
 3. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
+   - Linear  
+4. [Missing Number](https://leetcode.com/problems/missing-number/)  
+   - Linear  
