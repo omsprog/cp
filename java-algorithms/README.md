@@ -9,3 +9,5 @@
    - Linear  
 4. [Missing Number](https://leetcode.com/problems/missing-number/)  
    - Linear  
+5. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
+   - Linear  
