@@ -2,12 +2,12 @@
 
 Time complexity from worst to best  
 
-`O(n)` Constant  
+`O(1)` Constant   
 `O(log n)` Algorithm that cuts input in half at every step. Binary Search.     
 `O(n)` Traverse elements of array  
 `O(n log n)` Merge sort  
 `O(n ^ 2)` Nested for  
-`O(2 ^ n)` Fibonacci  
+`O(2 ^ n)` Time taken doubles with each eddition to N, fibonacci  
 `O(n!)`  
 
 Space complexity: How much auxiliary memory is needed to run the algorithm  

@@ -5,3 +5,4 @@
     - Linear algorithm `O(n)`
 2. [Counting Words with a Given String](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
    - Linear algorithm `O(n)`
+3. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
