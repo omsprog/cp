@@ -12,9 +12,9 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 */
 
-package com.omsprog.algorithms;
+package com.omsprog.algorithms.lc;
 
-public class TwoSum {
+public class TwoSumBruteForce {
     public static int[] twoSum(int[] nums, int target) {
         for(int i = 0; i < nums.length; i++) {
             for(int j = i + 1; j < nums.length; j++) {
