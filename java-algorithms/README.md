@@ -15,3 +15,4 @@
    - Brute Force `O(n ^ 2)`
    - Linear algorithm `O(n)`
 7. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
+8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
