@@ -14,7 +14,7 @@ public class BreadthFirstSearch<T> {
         Queue<Vertex<T>> queue = new LinkedList<>();
         queue.add(startVertex);
         while(!queue.isEmpty()) {
-            Vertex<T>  current = queue.poll();
+            Vertex<T> current = queue.poll();
 
             if(!current.isVisited()) {
                 current.setVisited(true);

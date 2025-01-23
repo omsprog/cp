@@ -21,3 +21,5 @@
 ## Medium Problems
 
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)  
+2. [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
+   - Implementation using iterative BFS over a matrix
