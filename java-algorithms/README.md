@@ -21,6 +21,8 @@
 
 ## Medium Problems
 
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)  
-2. [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) January 22, 2025 
+2. [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) January 22, 2025
+   - Implementation using iterative BFS over a matrix
+3. [Count Servers That Communicate](https://leetcode.com/problems/count-servers-that-communicate/) January 23, 2025 
    - Implementation using iterative BFS over a matrix
