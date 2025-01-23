@@ -19,6 +19,7 @@
 9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points)  
 10. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
 11. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+12. [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 ## Medium Problems
 
