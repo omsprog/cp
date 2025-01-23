@@ -26,3 +26,4 @@
    - Implementation using iterative BFS over a matrix
 3. [Count Servers That Communicate](https://leetcode.com/problems/count-servers-that-communicate/) January 23, 2025 
    - Implementation using iterative BFS over a matrix
+4. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) January 23, 2025
