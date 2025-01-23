@@ -18,6 +18,7 @@
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points)  
 10. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
+11. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
 ## Medium Problems
 
