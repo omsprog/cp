@@ -14,12 +14,13 @@
 6. [Two Sum](https://leetcode.com/problems/two-sum)
    - Brute Force `O(n^2)`
    - Linear algorithm `O(n)`
-7. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
-8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
-9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points)  
-10. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
-11. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
-12. [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+7. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) January 22, 2025
+8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/) January 22, 2025
+9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points) January 22, 2025
+10. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) January 23, 2025
+11. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) January 23, 2025
+12. [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists/) January 23, 2025
+13. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) January 23, 2025
 
 ## Medium Problems
 
