@@ -21,7 +21,7 @@
 11. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) January 23, 2025
 12. [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists/) January 23, 2025
 13. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) January 23, 2025
-14. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) January 23, 2025
+14. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) January 24, 2025
 
 ## Medium Problems
 
@@ -32,3 +32,4 @@
    - Implementation using iterative BFS over a matrix
 4. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) January 23, 2025
 5. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) January 24, 2025
+6. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description) January 24, 2025
