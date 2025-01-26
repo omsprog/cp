@@ -22,6 +22,7 @@
 12. [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists/) January 23, 2025
 13. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) January 23, 2025
 14. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) January 24, 2025
+15. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) January 26, 2025
 
 ## Medium Problems
 
