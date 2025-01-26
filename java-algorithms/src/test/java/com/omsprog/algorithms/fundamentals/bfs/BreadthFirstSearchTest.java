@@ -1,10 +1,8 @@
-package com.omsprog.algorithms.fundamentals;
+package com.omsprog.algorithms.fundamentals.bfs;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class BreadthFirstSearchTest {
     @Test

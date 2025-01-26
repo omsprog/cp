@@ -1,4 +1,4 @@
-package com.omsprog.algorithms.fundamentals;
+package com.omsprog.algorithms.fundamentals.bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;

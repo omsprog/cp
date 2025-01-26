@@ -1,4 +1,4 @@
-package com.omsprog.algorithms.fundamentals;
+package com.omsprog.algorithms.fundamentals.bfs;
 
 import lombok.Data;
 import lombok.ToString;
