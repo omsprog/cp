@@ -105,7 +105,7 @@ public class LinkedList {
         if(node == null)
             return false;
 
-        temp.value = value;
+//        temp.value = value;
         return true;
     }
 //    public boolean insert(int index, int value);
