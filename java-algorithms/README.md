@@ -41,3 +41,4 @@
 7. [Product of Array Except Self] (https://leetcode.com/problems/product-of-array-except-self/description/) February 2, 2025
    - O(n)
 8. [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) February 2, 2025
+9. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) February 5, 2025
