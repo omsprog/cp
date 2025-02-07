@@ -28,6 +28,7 @@
 16. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) February 2, 2025
 17. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) Feb 4, 2025
 18. [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) Feb 6, 2025
+19. [Reverse String](https://leetcode.com/problems/reverse-string/description/) Feb 6, 2025
 
 ## Medium Problems
 
