@@ -8,6 +8,7 @@ public class RemoveNthNodeFromEndOfList {
         int numberOfElements = 0;
         ListNode pointer = head;
 
+        // calculate the total number of elements
         for(int i = 0; pointer != null; i++) {
             ++numberOfElements;
             pointer = pointer.next;
