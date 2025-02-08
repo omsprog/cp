@@ -1,5 +1,7 @@
 package com.omsprog.algorithms.fundamentals.linkedlist;
 
+import com.omsprog.algorithms.fundamentals.Node;
+
 public class LinkedList {
     private Node head;
     private Node tail;

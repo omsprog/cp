@@ -1,3 +1,9 @@
+## Fundamentals
+
+- Linked List `LinkedList<Integer> list = new LinkedList<>();`
+- Stack `Stack<Integer> stack = new Stack<>();` `Deque<Integer> stack = new ArrayDeque<>();`
+- BFS
+
 ## Easy Problems
 
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -30,6 +36,7 @@
 18. [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) Feb 6, 2025
 19. [Reverse String](https://leetcode.com/problems/reverse-string/description/) Feb 6, 2025
 20. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) Feb 7, 2025
+21. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) Feb 8, 2025
 
 ## Medium Problems
 
@@ -41,7 +48,7 @@
 4. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) January 23, 2025
 5. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) January 24, 2025
 6. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description) January 24, 2025
-7. [Product of Array Except Self] (https://leetcode.com/problems/product-of-array-except-self/description/) February 2, 2025
+7. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) February 2, 2025
    - O(n)
 8. [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) February 2, 2025
 9. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) February 5, 2025
