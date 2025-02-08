@@ -29,6 +29,7 @@
 17. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) Feb 4, 2025
 18. [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) Feb 6, 2025
 19. [Reverse String](https://leetcode.com/problems/reverse-string/description/) Feb 6, 2025
+20. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) Feb 7, 2025
 
 ## Medium Problems
 

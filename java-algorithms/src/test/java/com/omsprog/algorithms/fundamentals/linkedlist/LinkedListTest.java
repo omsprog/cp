@@ -15,9 +15,15 @@ class LinkedListTest {
         lL.prepend(3);
         lL.prepend(2);
         lL.removeFirst();
-        lL.printList();
 
         assertEquals(5, lL.get(2).value);
         assertEquals(null, lL.get(4));
+
+        lL.append(100);
+        lL.set(4, 7);
+        assertEquals(7, lL.get(4).value);
+        lL.insert(5, 9);
+        lL.insert(5, 8);
+        lL.printList();
     }
 }

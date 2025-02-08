@@ -105,8 +105,44 @@ public class LinkedList {
         if(node == null)
             return false;
 
-//        temp.value = value;
+        node.value = value;
         return true;
     }
-//    public boolean insert(int index, int value);
+
+    public boolean insert(int index, int value) {
+        if(index < 0 || index > length)
+            return false;
+
+        if(index == 0) {
+            this.prepend(value);
+            return true;
+        }
+
+        if(index == length) {
+            this.append(value);
+            return true;
+        }
+
+        Node newNode = new Node(value);
+        // get previous node from the target
+        Node temp = get(index - 1);
+        newNode.next = temp.next;
+        temp.next = newNode;
+        length++;
+        return true;
+    }
+
+    public Node remove(int index) {
+        if(index < 0 || index >= length) return null;
+        if(index == 0) return removeFirst();
+        if(index == length - 1) return removeLast();
+
+        Node prev = get(index - 1);
+        Node tmp = prev.next;
+
+        prev.next = tmp.next;
+        tmp.next = null;
+        length--;
+        return tmp;
+    }
 }
