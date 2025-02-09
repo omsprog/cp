@@ -37,6 +37,7 @@
 19. [Reverse String](https://leetcode.com/problems/reverse-string/description/) Feb 6, 2025
 20. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) Feb 7, 2025
 21. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) Feb 8, 2025
+22. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) Feb 9, 2025
 
 ## Medium Problems
 
