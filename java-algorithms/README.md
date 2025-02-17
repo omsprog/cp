@@ -38,6 +38,7 @@
 20. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) Feb 7, 2025
 21. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) Feb 8, 2025
 22. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) Feb 9, 2025
+23. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) Feb 17, 2025
 
 ## Medium Problems
 
@@ -53,4 +54,4 @@
    - O(n)
 8. [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) February 2, 2025
 9. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) February 5, 2025
-10. [Remove Stars](https://leetcode.com/problems/removing-stars-from-a-string/) Feb 17, 2025
+10. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) Feb 17, 2025
