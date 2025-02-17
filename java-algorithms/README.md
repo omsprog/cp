@@ -41,6 +41,7 @@
 23. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) Feb 17, 2025
 24. [Baseball Game](https://leetcode.com/problems/baseball-game/description/) Feb 17, 2025
 25. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description) Feb 17, 2025
+26. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description) Feb 17, 2025
 
 ## Medium Problems
 
