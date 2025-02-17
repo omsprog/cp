@@ -39,6 +39,7 @@
 21. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) Feb 8, 2025
 22. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) Feb 9, 2025
 23. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) Feb 17, 2025
+24. [Baseball Game](https://leetcode.com/problems/baseball-game/description/) Feb 17, 2025
 
 ## Medium Problems
 
