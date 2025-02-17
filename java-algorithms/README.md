@@ -53,3 +53,4 @@
    - O(n)
 8. [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) February 2, 2025
 9. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) February 5, 2025
+10. [Remove Stars](https://leetcode.com/problems/removing-stars-from-a-string/) Feb 17, 2025
