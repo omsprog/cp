@@ -43,6 +43,7 @@
 25. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description) Feb 17, 2025
 26. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description) Feb 17, 2025
 27. [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) Feb 17, 2025
+28. [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) Feb 17, 2025
 
 ## Medium Problems
 
