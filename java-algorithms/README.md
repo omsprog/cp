@@ -63,3 +63,4 @@
 10. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) Feb 17, 2025
 11. [String Compression](https://leetcode.com/problems/string-compression) Feb 18, 2025
 12. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description) Feb 18, 2025
+13. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description) Feb 18, 2025
