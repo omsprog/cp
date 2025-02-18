@@ -61,3 +61,4 @@
 8. [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) February 2, 2025
 9. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) February 5, 2025
 10. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) Feb 17, 2025
+11. [String Compression](https://leetcode.com/problems/string-compression) Feb 18, 2025
