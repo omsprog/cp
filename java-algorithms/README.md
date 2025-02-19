@@ -46,6 +46,7 @@
 28. [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) Feb 17, 2025
 29. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description) Feb 17, 2025
 30. [Counting Bits](https://leetcode.com/problems/counting-bits) Feb 18, 2025
+31. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description) Feb 18, 2025
 
 ## Medium Problems
 
