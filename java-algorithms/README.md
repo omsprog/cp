@@ -29,8 +29,8 @@
 13. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) January 23, 2025
 14. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) January 24, 2025
 15. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) January 26, 2025
-   - O(1.5n)
-   - O(n) two pointers
+    - O(1.5n)
+    - O(n) two pointers
 16. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) February 2, 2025
 17. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) Feb 4, 2025
 18. [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) Feb 6, 2025
@@ -47,6 +47,7 @@
 29. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description) Feb 17, 2025
 30. [Counting Bits](https://leetcode.com/problems/counting-bits) Feb 18, 2025
 31. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description) Feb 18, 2025
+32. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description) Feb 19, 2025
 
 ## Medium Problems
 
