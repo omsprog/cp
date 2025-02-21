@@ -48,6 +48,7 @@
 30. [Counting Bits](https://leetcode.com/problems/counting-bits) Feb 18, 2025
 31. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description) Feb 18, 2025
 32. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description) Feb 19, 2025
+33. [Move Zeroes](https://leetcode.com/problems/move-zeroes) Feb 20, 2025
 
 ## Medium Problems
 
