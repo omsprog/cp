@@ -70,3 +70,4 @@
 12. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description) Feb 18, 2025
 13. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description) Feb 18, 2025
 14. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) Feb 22, 2025
+15. [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description) Feb 22, 2025
