@@ -52,6 +52,7 @@
 34. [Is Subsequence](https://leetcode.com/problems/is-subsequence) Feb 20, 2025
 35. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) Feb 24, 2025
    - Recursive DFS
+   - BFS
 
 ## Medium Problems
 
