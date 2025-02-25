@@ -80,3 +80,4 @@
    - Iterative DFS - PreOrder
 19. [Path Sum III](https://leetcode.com/problems/path-sum-iii) Feb 25, 2025
    - `O(n^2)`
+20. [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) Feb 25, 2025
