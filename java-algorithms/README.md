@@ -53,6 +53,7 @@
 35. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) Feb 24, 2025
    - Recursive DFS
    - BFS
+36. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) Feb 25, 2025
 
 ## Medium Problems
 
