@@ -83,3 +83,4 @@
    - `O(n^2)`
 20. [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) Feb 25, 2025
 21. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) Feb 25, 2025
+22. [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) Feb 25, 2025
