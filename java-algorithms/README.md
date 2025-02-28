@@ -54,6 +54,7 @@
    - Recursive DFS
    - BFS
 36. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) Feb 25, 2025
+37. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) Feb 27, 2025
 
 ## Medium Problems
 
