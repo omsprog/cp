@@ -90,3 +90,4 @@
 23. [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) Mar 1, 2025
 24. [Sort Colors](https://leetcode.com/problems/sort-colors) Mar 1, 2025
 25. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) Mar 2, 2025
+26. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) Mar 2, 2025
