@@ -91,3 +91,4 @@
 24. [Sort Colors](https://leetcode.com/problems/sort-colors) Mar 1, 2025
 25. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) Mar 2, 2025
 26. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) Mar 2, 2025
+27. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) Mar 2, 2025
