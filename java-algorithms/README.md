@@ -93,3 +93,4 @@
 26. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) Mar 2, 2025
 27. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) Mar 2, 2025
 28. [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) Mar 2, 2025
+29. [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) Mar 2, 2025
