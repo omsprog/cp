@@ -87,3 +87,4 @@
 21. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) Feb 25, 2025
 22. [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) Feb 25, 2025
 23. [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) Mar 1, 2025
+24. [Sort Colors](https://leetcode.com/problems/sort-colors) Mar 1, 2025
