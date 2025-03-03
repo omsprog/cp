@@ -58,6 +58,7 @@
 38. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) Feb 27, 2025
 39. [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) Mar 1, 2025
 40. [Same Tree](https://leetcode.com/problems/same-tree) Mar 2, 2025
+41. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) Mar 2, 2025
 
 ## Medium Problems
 
