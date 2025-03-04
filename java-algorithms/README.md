@@ -60,6 +60,7 @@
 40. [Same Tree](https://leetcode.com/problems/same-tree) Mar 2, 2025
 41. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) Mar 2, 2025
 42. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) Mar 3, 2025
+43. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side) Mar 3, 2025
 
 ## Medium Problems
 
