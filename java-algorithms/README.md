@@ -59,6 +59,7 @@
 39. [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) Mar 1, 2025
 40. [Same Tree](https://leetcode.com/problems/same-tree) Mar 2, 2025
 41. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) Mar 2, 2025
+42. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) Mar 3, 2025
 
 ## Medium Problems
 
