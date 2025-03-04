@@ -66,6 +66,9 @@
 46. [Monotonic Array](https://leetcode.com/problems/monotonic-array) Mar 3, 2025
 47. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) Mar 3, 2025
 48. [Power Of Two](https://leetcode.com/problems/power-of-two) Mar 3, 2025
+    - `O(n)` recursion
+49. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) Mar 3, 2025
+    - `O(n)` recursion
 
 ## Medium Problems
 
