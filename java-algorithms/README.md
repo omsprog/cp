@@ -69,6 +69,8 @@
     - `O(n)` recursion
 49. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) Mar 3, 2025
     - `O(n)` recursion
+50. [Power of Three](https://leetcode.com/problems/power-of-three) Mar 3, 2025
+    - `O(n)` recursion
 
 ## Medium Problems
 
