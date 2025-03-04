@@ -29,8 +29,8 @@
 13. [Search Insert Position](https://leetcode.com/problems/search-insert-position) January 23, 2025
 14. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) January 24, 2025
 15. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) January 26, 2025
-    - O(1.5n)
-    - O(n) two pointers
+    - `O(1.5n)`
+    - `O(n)` two pointers
 16. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) February 2, 2025
 17. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) Feb 4, 2025
 18. [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) Feb 6, 2025
@@ -51,8 +51,8 @@
 33. [Move Zeroes](https://leetcode.com/problems/move-zeroes) Feb 20, 2025
 34. [Is Subsequence](https://leetcode.com/problems/is-subsequence) Feb 20, 2025
 35. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) Feb 24, 2025
-   - Recursive DFS
-   - BFS
+    - Recursive DFS
+    - BFS
 36. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) Feb 25, 2025
 37. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) Feb 27, 2025
 38. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) Feb 27, 2025
@@ -62,6 +62,7 @@
 42. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) Mar 3, 2025
 43. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side) Mar 3, 2025
 44. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) Mar 3, 2025
+45. [Palindrome Number](https://leetcode.com/problems/palindrome-number) Mar 3, 2025
 
 ## Medium Problems
 
@@ -86,9 +87,9 @@
 16. [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) Feb 22, 2025
 17. [Decode String](https://leetcode.com/problems/decode-string) Feb 22, 2025
 18. [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) Feb 24, 2025
-   - Iterative DFS - PreOrder
+    - Iterative DFS - PreOrder
 19. [Path Sum III](https://leetcode.com/problems/path-sum-iii) Feb 25, 2025
-   - `O(n^2)`
+    - `O(n^2)`
 20. [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) Feb 25, 2025
 21. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) Feb 25, 2025
 22. [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) Feb 25, 2025
