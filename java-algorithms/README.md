@@ -109,3 +109,5 @@
 28. [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) Mar 2, 2025
 29. [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) Mar 2, 2025
 30. [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) Mar 2, 2025
+31. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) Mar 2, 2025
+    - `O(n)` recursive
