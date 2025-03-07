@@ -114,3 +114,4 @@
 30. [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) Mar 2, 2025
 31. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) Mar 2, 2025
     - `O(n)` recursive
+32. [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) Mar 7, 2025
