@@ -71,6 +71,7 @@
     - `O(n)` recursion
 50. [Power of Three](https://leetcode.com/problems/power-of-three) Mar 3, 2025
     - `O(n)` recursion
+51. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) Mar 6, 2025
 
 ## Medium Problems
 
