@@ -76,6 +76,8 @@
 53. [Majority Element](https://leetcode.com/problems/majority-element) Mar 7, 2025
 54. [Add Digits](https://leetcode.com/problems/add-digits) Mar 7, 2025
 55. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) Mar 7, 2025
+56. [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) Mar 7, 2025
+    - `O(n)` sliding window
 
 ## Medium Problems
 
