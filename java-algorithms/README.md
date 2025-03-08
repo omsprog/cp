@@ -117,3 +117,4 @@
 31. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) Mar 2, 2025
     - `O(n)` recursive
 32. [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) Mar 7, 2025
+33. [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) Mar 7, 2025
