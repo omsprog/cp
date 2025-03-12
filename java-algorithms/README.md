@@ -79,6 +79,7 @@
 56. [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) Mar 7, 2025
     - `O(n)` sliding window
 57. [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) Mar 8, 2025
+58. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle) Mar 11, 2025
 
 ## Medium Problems
 
