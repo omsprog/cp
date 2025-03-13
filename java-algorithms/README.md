@@ -80,6 +80,7 @@
     - `O(n)` sliding window
 57. [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) Mar 8, 2025
 58. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle) Mar 11, 2025
+59. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) Mar 12, 2025
 
 ## Medium Problems
 
