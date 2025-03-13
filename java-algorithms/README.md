@@ -82,6 +82,7 @@
 58. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle) Mar 11, 2025
 59. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) Mar 12, 2025
 60. [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) Mar 12, 2025
+61. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) Mar 12, 2025
 
 ## Medium Problems
 
