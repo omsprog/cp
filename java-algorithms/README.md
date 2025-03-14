@@ -84,6 +84,7 @@
 60. [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) Mar 12, 2025
 61. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) Mar 12, 2025
 62. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) Mar 12, 2025
+63. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) Mar 13, 2025
 
 ## Medium Problems
 
