@@ -6,7 +6,7 @@
 `pip install pytest`  
 `pip freeze > requirements.txt`  
 `pytest -s test/test_solution1.py` # execute test case by name  
-`deactivate` # deactive virtualenv
+`deactivate` # inactivate virtualenv
 
 ## Problems
 
@@ -27,3 +27,9 @@
 8. [Binary Search](https://leetcode.com/problems/binary-search/description/) `O(log n)`
 9. [Sqrt](https://leetcode.com/problems/sqrtx) `O(log n)` 
 10. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) `O(n)`
+
+## Medium Problems
+
+14. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) April 1, 2025
+   - Brute Force `O(n ^ 2)`
+   - Optimal Two Pointers `O(n)`

@@ -1,7 +1,7 @@
-from src.sorted_squares_brute_force import SortedSquares
+from src.sorted_squares_brute_force import SortedSquaresBruteForce
 
 def test_sortedSquares():
-    sS = SortedSquares()
+    sS = SortedSquaresBruteForce()
 
     input = [-4,-1,0,3,10]
     expected = [0,1,9,16,100]

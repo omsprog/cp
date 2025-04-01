@@ -17,7 +17,6 @@ public class DivideArrayIntoEqualPairs {
                 map.put(num, 1);
         }
 
-
         for(Map.Entry<Integer, Integer> entry : map.entrySet())
             if(entry.getValue() % 2 != 0) return false;
 
