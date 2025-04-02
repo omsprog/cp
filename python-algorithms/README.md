@@ -22,7 +22,8 @@
 6. [Two sum](https://leetcode.com/problems/two-sum/description/)
     - Brute Force `O(n ^ 2)`
     - Optimal using HashMap `O(n)` 
-8. [Binary Search](https://leetcode.com/problems/binary-search/description/) `O(log n)`
+8. [Binary Search](https://leetcode.com/problems/binary-search/description/) 
+   - `O(log n)`
 9. [Sqrt](https://leetcode.com/problems/sqrtx) `O(log n)` 
 10. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) `O(n)`
 

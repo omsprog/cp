@@ -86,6 +86,8 @@
 62. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) Mar 12, 2025
 63. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) Mar 13, 2025
 64. [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) Mar 16, 2025
+65. [Binary Search](https://leetcode.com/problems/binary-search) April 1, 2025
+    - `O(log n)`
 
 ## Medium Problems
 
