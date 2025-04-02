@@ -88,6 +88,8 @@
 64. [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) Mar 16, 2025
 65. [Binary Search](https://leetcode.com/problems/binary-search) April 1, 2025
     - `O(log n)`
+66. [Sqrt](https://leetcode.com/problems/sqrtx) April 2, 2025
+    - `O(log n)` Binary Search
 
 ## Medium Problems
 
