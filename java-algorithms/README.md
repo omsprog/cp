@@ -136,3 +136,5 @@
 37. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) Mar 14, 2025
 38. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) April 1, 2025
     - `O(n)`
+39. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) April 2, 2025
+    - `O(n)`

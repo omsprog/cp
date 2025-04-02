@@ -25,7 +25,6 @@
 8. [Binary Search](https://leetcode.com/problems/binary-search/description/) 
    - `O(log n)`
 9. [Sqrt](https://leetcode.com/problems/sqrtx) `O(log n)` 
-10. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) `O(n)`
 
 ## Medium Problems
 
@@ -34,3 +33,5 @@
    - Optimal Two Pointers `O(n)`
 38. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) April 1, 2025
     - `O(n)`
+[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
+- `O(n)`

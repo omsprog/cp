@@ -1,25 +1,22 @@
 class LongestSubstringWithoutRepeatingCharacters:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        if len(s) < 2:
-            return len(s)
-        
-        pointerA = 0
-        pointerB = 0
-        visited = {}
+        chars = set()
+
+        a = 0
+        b = 0
         longest = 0
 
-        while pointerB < len(s):
-            if s[pointerB] in visited:
-                indexOfDuplicated = visited[s[pointerB]]
-                while pointerA <= indexOfDuplicated:
-                    del visited[s[pointerA]]
-                    pointerA = pointerA + 1
-            else:
-                delta = pointerB - pointerA + 1
-                if delta > longest:
-                    longest = delta
+        for c in s:
+            if c in chars:
+                while c in chars:
+                    c_aux = s[a]
+                    chars.remove(c_aux)
+                    a += 1  # moving pointer A
 
-            visited[s[pointerB]] = pointerB
-            pointerB = pointerB + 1
+            chars.add(c)
+            b += 1  # moving pointer B
 
-        return longest                
+            delta = b - a
+            longest = max(longest, delta)
+
+        return longest              
