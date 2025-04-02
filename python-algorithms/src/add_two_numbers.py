@@ -1,49 +1,45 @@
 from typing import Optional
 
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
-# Input: l1 = [2,4,3], l2 = [5,6,4]
-# Output: [7,0,8]
+from src.ListNode import ListNode
 
 class AddTwoNumbers:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        head = None
+        tail = None
         carry = False
-        head = ListNode(10) # Dummy node to keep a reference to the First element of the LL, value does not matter
-        currentNode = head
 
-        # for index in range(0, len(longerList)):
-        while l1 is not None or l2 is not None:
-            currentA = 0
-            currentB = 0
+        while not (l1 is None and l2 is None):
+            a = 0
+            b = 0
 
-            if(l1 is not None):
-                currentA = l1.val
-            if(l2 is not None):
-                currentB = l2.val
+            if l1 is not None:
+                a = l1.val
+                l1 = l1.next
+            if l2 is not None:
+                b = l2.val
+                l2 = l2.next
 
-            sum = currentA + currentB
+            sum = a + b
             
-            if(carry):
+            if carry:
                 sum += 1
                 carry = False
 
-            if(sum > 9):
+            if sum > 9:
                 carry = True
                 sum -= 10
-            
-            currentNode.next = ListNode(sum)
-            currentNode = currentNode.next
-            
-            if(l1 is not None):
-                l1 = l1.next
-            if(l2 is not None):
-                l2 = l2.next
 
-        if(carry):
-            currentNode.next = ListNode(1)
-            currentNode = currentNode.next
+            new_node = ListNode(sum)
 
-        return head.next
+            if head is None:
+                head = new_node
+                tail = new_node
+            else:
+                tail.next = new_node
+                tail = tail.next
+
+
+        if carry:
+            tail.next = ListNode(1)
+
+        return head

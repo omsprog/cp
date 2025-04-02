@@ -10,7 +10,6 @@
 
 ## Problems
 
-
 1. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
     - Brute Force `O(n log n)`
     - Linear algorithm `O(n)`
@@ -22,8 +21,7 @@
 5. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) `O(n)`
 6. [Two sum](https://leetcode.com/problems/two-sum/description/)
     - Brute Force `O(n ^ 2)`
-    - Optimal using HashMap `O(n)`
-7. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) `O(n)`    
+    - Optimal using HashMap `O(n)` 
 8. [Binary Search](https://leetcode.com/problems/binary-search/description/) `O(log n)`
 9. [Sqrt](https://leetcode.com/problems/sqrtx) `O(log n)` 
 10. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) `O(n)`
@@ -33,3 +31,5 @@
 14. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) April 1, 2025
    - Brute Force `O(n ^ 2)`
    - Optimal Two Pointers `O(n)`
+38. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) April 1, 2025
+    - `O(n)`

@@ -132,3 +132,5 @@
 35. [Reorder List](https://leetcode.com/problems/reorder-list) Mar 10, 2025
 36. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) Mar 14, 2025
 37. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) Mar 14, 2025
+38. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) April 1, 2025
+    - `O(n)`
