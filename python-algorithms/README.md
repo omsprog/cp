@@ -25,6 +25,8 @@
 8. [Binary Search](https://leetcode.com/problems/binary-search/description/) 
    - `O(log n)`
 9. [Sqrt](https://leetcode.com/problems/sqrtx) `O(log n)` 
+67. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) April 3, 2025
+    - `O(n)`
 
 ## Medium Problems
 

@@ -90,6 +90,8 @@
     - `O(log n)`
 66. [Sqrt](https://leetcode.com/problems/sqrtx) April 2, 2025
     - `O(log n)` Binary Search
+67. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) April 3, 2025
+    - `O(n)`
 
 ## Medium Problems
 
