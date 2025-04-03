@@ -140,3 +140,5 @@
     - `O(n)`
 39. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) April 2, 2025
     - `O(n)`
+40. [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) April 2, 2025
+    - `O(h)` binary search on a tree
