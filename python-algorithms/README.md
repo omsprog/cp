@@ -35,3 +35,5 @@
     - `O(n)`
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 
 - `O(n)`
+41. [Find Peak Element](https://leetcode.com/problems/find-peak-element) April 3, 2025
+    - `O(log n)`

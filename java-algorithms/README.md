@@ -142,3 +142,5 @@
     - `O(n)`
 40. [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) April 2, 2025
     - `O(h)` binary search on a tree
+41. [Find Peak Element](https://leetcode.com/problems/find-peak-element) April 3, 2025
+    - `O(log n)`
