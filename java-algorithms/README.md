@@ -151,3 +151,4 @@
 42. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) April 11, 2025
     - `O(n)`  
 43. [Rotate Array](https://leetcode.com/problems/rotate-array) April 12, 2025
+44. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) April 12, 2025
