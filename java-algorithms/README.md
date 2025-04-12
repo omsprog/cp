@@ -92,6 +92,8 @@
     - `O(log n)` Binary Search
 67. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) April 3, 2025
     - `O(n)`
+68. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) April 11, 2025
+    - `O(n)`
 
 ## Medium Problems
 
