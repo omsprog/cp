@@ -148,3 +148,5 @@
     - `O(h)` binary search on a tree
 41. [Find Peak Element](https://leetcode.com/problems/find-peak-element) April 3, 2025
     - `O(log n)`
+42. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) April 11, 2025
+    - `O(n)`  
