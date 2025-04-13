@@ -8,18 +8,18 @@
 
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
     - Brute Force `O(n^2)`
-    - Linear algorithm `O(n)`
+    - `O(n)`
 2. [Counting Words with a Given String](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
-   - Linear algorithm `O(n)`
+   -`O(n)`
 3. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
-   - Linear  
+   -`O(n)`
 4. [Missing Number](https://leetcode.com/problems/missing-number/)  
-   - Linear  
+   -`O(n)`
 5. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
-   - Linear  
+   -`O(n)`
 6. [Two Sum](https://leetcode.com/problems/two-sum)
    - Brute Force `O(n^2)`
-   - Linear algorithm `O(n)`
+     -`O(n)`
 7. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) January 22, 2025
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) January 22, 2025
 9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points) January 22, 2025
@@ -94,6 +94,8 @@
     - `O(n)`
 68. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) April 11, 2025
     - `O(n)`
+69. [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) April 12, 2025
+    - `O(n)`
 
 ## Medium Problems
 
@@ -106,7 +108,7 @@
 5. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) January 24, 2025
 6. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) January 24, 2025
 7. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) February 2, 2025
-   - O(n)
+    - `O(n)`
 8. [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) February 2, 2025
 9. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) February 5, 2025
 10. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) Feb 17, 2025
@@ -151,4 +153,6 @@
 42. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) April 11, 2025
     - `O(n)`  
 43. [Rotate Array](https://leetcode.com/problems/rotate-array) April 12, 2025
+    - `O(n)`
 44. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) April 12, 2025
+    - `O(n^2)` (Optimal solution)
