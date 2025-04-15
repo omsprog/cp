@@ -156,3 +156,5 @@
     - `O(n)`
 44. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) April 12, 2025
     - `O(n^2)` (Optimal solution)
+45. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) April 15, 2025
+    - `O(log n)` Binary Search
