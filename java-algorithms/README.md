@@ -98,6 +98,8 @@
     - `O(n)`
 70. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) April 15, 2025
     - `O(h)`
+71. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) April 15, 2025
+    - `O(n)`
 
 ## Medium Problems
 
