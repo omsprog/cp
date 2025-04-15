@@ -162,3 +162,5 @@
     - `O(log n)` Binary Search
 46. [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) April 15, 2025
     - `O(n log m)`
+47. [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) April 15, 2025
+    - `O(h)`
