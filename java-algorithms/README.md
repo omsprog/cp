@@ -96,6 +96,8 @@
     - `O(n)`
 69. [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) April 12, 2025
     - `O(n)`
+70. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) April 15, 2025
+    - `O(h)`
 
 ## Medium Problems
 
