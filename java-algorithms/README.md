@@ -100,6 +100,8 @@
     - `O(h)`
 71. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) April 15, 2025
     - `O(n)`
+72. [Valid Anagram](https://leetcode.com/problems/valid-anagram) April 16, 2025
+    - `O(n)`
 
 ## Medium Problems
 
