@@ -4,6 +4,12 @@
 - Stack `Stack<Integer> stack = new Stack<>();` `Deque<Integer> stack = new ArrayDeque<>();`
 - BFS
 
+## Problems
+
+### Array
+
+1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) Easy - Feb 9, 2025
+
 ## Easy Problems
 
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
