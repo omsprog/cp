@@ -102,6 +102,7 @@
     - `O(n)`
 72. [Valid Anagram](https://leetcode.com/problems/valid-anagram) April 16, 2025
     - `O(n)`
+73. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) July 13, 2025
 
 ## Medium Problems
 
