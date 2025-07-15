@@ -10,6 +10,15 @@
 
 1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) Easy - Feb 9, 2025
 
+### Hash and Set
+
+1. [Two Sum](https://leetcode.com/problems/two-sum) Easy - Jul 4, 2025
+    - Brute Force `O(n^2)`
+    - `O(n)`
+2. [3Sum](https://leetcode.com/problems/3sum) Medium - July 14, 2025
+    - `O(n^2)` generalization of Two Sum
+
+
 ## Easy Problems
 
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -24,8 +33,8 @@
 5. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
    -`O(n)`
 6. [Two Sum](https://leetcode.com/problems/two-sum)
-   - Brute Force `O(n^2)`
-     -`O(n)`
+    - Brute Force `O(n^2)`
+    -`O(n)`
 7. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) January 22, 2025
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) January 22, 2025
 9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points) January 22, 2025
@@ -177,3 +186,4 @@
     - `O(h)`
 48. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) April 15, 2025
     - `O(n)`
+49. [3Sum](https://leetcode.com/problems/3sum) July 14, 2025
