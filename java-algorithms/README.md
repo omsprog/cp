@@ -17,7 +17,7 @@
     - `O(n)`
 2. [3Sum](https://leetcode.com/problems/3sum) Medium - July 14, 2025
     - `O(n^2)` generalization of Two Sum
-
+    - `O(n^2)` two pointers
 
 ## Easy Problems
 
