@@ -19,6 +19,11 @@
     - `O(n^2)` generalization of Two Sum
     - `O(n^2)` two pointers
 
+### Binary Search
+
+1. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) Medium - July 15, 2025
+    - `O(log n)` Binary Search
+
 ## Easy Problems
 
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -187,3 +192,5 @@
 48. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) April 15, 2025
     - `O(n)`
 49. [3Sum](https://leetcode.com/problems/3sum) July 14, 2025
+50. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) July 15
+    - `O(log n)` Binary Search
