@@ -9,6 +9,7 @@
 ### Array
 
 1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) Easy - Feb 9, 2025
+2. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) Medium - Jul 19, 2025
 
 ### Hash and Set
 
@@ -194,3 +195,4 @@
 49. [3Sum](https://leetcode.com/problems/3sum) July 14, 2025
 50. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) July 15
     - `O(log n)` Binary Search
+51. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) Jul 19
