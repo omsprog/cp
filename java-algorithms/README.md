@@ -18,9 +18,11 @@
 1. [Two Sum](https://leetcode.com/problems/two-sum) Easy - Jul 4, 2025
     - Brute Force `O(n^2)`
     - `O(n)`
-2. [3Sum](https://leetcode.com/problems/3sum) Medium - July 14, 2025
+2. [3Sum](https://leetcode.com/problems/3sum) Medium - Jul 14, 2025
     - `O(n^2)` generalization of Two Sum
     - `O(n^2)` two pointers
+3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) Medium - Jul 20, 2025
+   - `O(n)` Merges consecutive sequences using a hash map that tracks their boundaries and lengths.
 
 ### Binary Search
 
@@ -195,6 +197,10 @@
 48. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) April 15, 2025
     - `O(n)`
 49. [3Sum](https://leetcode.com/problems/3sum) July 14, 2025
-50. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) July 15
+50. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) July 15, 2025
     - `O(log n)` Binary Search
-51. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) Jul 19
+51. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) Jul 19, 2025
+    - `O(n)` Find peaks first and calculate the longest increasing and decreasing sequences from the peak
+    - `O(n)` Create two arrays up[] and down[]
+52. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) Jul 20, 2025
+    - `O(n)` Merges consecutive sequences using a hash map that tracks their boundaries and lengths.
