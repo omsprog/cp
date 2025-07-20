@@ -10,6 +10,8 @@
 
 1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) Easy - Feb 9, 2025
 2. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) Medium - Jul 19, 2025
+    - `O(n)` Find peaks first and calculate the longest increasing and decreasing sequences from the peak
+    - `O(n)` Create two arrays up[] and down[]
 
 ### Hash and Set
 
