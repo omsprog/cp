@@ -10,17 +10,19 @@
 
 1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) Easy - Feb 9, 2025
 2. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) Medium - Jul 19, 2025
-    - `O(n)` Find peaks first and calculate the longest increasing and decreasing sequences from the peak
-    - `O(n)` Create two arrays up[] and down[]
+   - `O(n)` Find peaks first and calculate the longest increasing and decreasing sequences from the peak
+   - `O(n)` Create two arrays up[] and down[]
+3. [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) Jul 21, 2025
+   - `O(n)` add elements to string builder and keep track of the last character and number of repeated characters
 
 ### Hash and Set
 
 1. [Two Sum](https://leetcode.com/problems/two-sum) Easy - Jul 4, 2025
-    - Brute Force `O(n^2)`
-    - `O(n)`
+   - Brute Force `O(n^2)`
+   - `O(n)`
 2. [3Sum](https://leetcode.com/problems/3sum) Medium - Jul 14, 2025
-    - `O(n^2)` generalization of Two Sum
-    - `O(n^2)` two pointers
+   - `O(n^2)` generalization of Two Sum
+   - `O(n^2)` two pointers
 3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) Medium - Jul 20, 2025
    - `O(n)` Merges consecutive sequences using a hash map that tracks their boundaries and lengths.
    - `O(n)` Add element to Set, get the elements that start the sequence and count the longest sequence
@@ -129,6 +131,8 @@
 72. [Valid Anagram](https://leetcode.com/problems/valid-anagram) April 16, 2025
     - `O(n)`
 73. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) July 13, 2025
+74. [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) Jul 21, 2025
+    - `O(n)` add elements to string builder and keep track of the last character and number of repeated characters
 
 ## Medium Problems
 
