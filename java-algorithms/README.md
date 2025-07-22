@@ -23,6 +23,7 @@
     - `O(n^2)` two pointers
 3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) Medium - Jul 20, 2025
    - `O(n)` Merges consecutive sequences using a hash map that tracks their boundaries and lengths.
+   - `O(n)` Add element to Set, get the elements that start the sequence and count the longest sequence
 
 ### Binary Search
 
@@ -204,3 +205,4 @@
     - `O(n)` Create two arrays up[] and down[]
 52. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) Jul 20, 2025
     - `O(n)` Merges consecutive sequences using a hash map that tracks their boundaries and lengths.
+    - `O(n)` Add element to Set, get the elements that start the sequence and count the longest sequence
