@@ -14,6 +14,7 @@
    - `O(n)` Create two arrays up[] and down[]
 3. [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) Jul 21, 2025
    - `O(n)` add elements to string builder and keep track of the last character and number of repeated characters
+   - `O(n)` read the last two characters from the string build and skip adding elements accordingly
 
 ### Hash and Set
 
