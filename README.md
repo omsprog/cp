@@ -21,3 +21,12 @@ Space complexity: How much auxiliary memory is needed to run the algorithm
 
 - Fibonacci sequence with memoization
 - Fibonacci sequence iterative
+
+## Resources
+
+- Programming Challenges by Skiena and Revilla
+- Competitive Programming 4 by Halim and Halim
+- Algorithmic Thinking by Daniel Zingaro
+- Competitive Programming in Python by Durr and Vie
+- Algorithm Design by Kleinber and Trdo
+- The Algorithm Design Manual by Skiena
