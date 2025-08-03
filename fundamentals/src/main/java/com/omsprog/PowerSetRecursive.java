@@ -14,13 +14,13 @@ public class PowerSetRecursive {
     
     private static void calculatePowerSetRecursive(char[] characters, int currentIndex, Set<Set<Character>> powerSet, Set<Character> currentSet) {
         if(currentIndex == characters.length) {
-            powerSet.add(new HashSet<>(currentSet)); // create a copy of the current set
+            powerSet.add(new HashSet<>(currentSet)); // creates a copy of the current set
         } else {
             char c = characters[currentIndex];
             currentSet.add(c);
-            calculatePowerSetRecursive(characters, currentIndex + 1, powerSet, currentSet);
+            calculatePowerSetRecursive(characters, currentIndex + 1, powerSet, currentSet); // c is included in the subset
             currentSet.remove(c);
-            calculatePowerSetRecursive(characters, currentIndex + 1, powerSet, currentSet);
+            calculatePowerSetRecursive(characters, currentIndex + 1, powerSet, currentSet); // c is not included in the subset
         }
     }
 }
