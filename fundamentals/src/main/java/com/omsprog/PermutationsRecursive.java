@@ -8,9 +8,9 @@ import java.util.Set;
 public class PermutationsRecursive {
 
     private void calculatePermutationsRecursive(char[] characters, List<List<Character>> permutations, Set<Integer> visited, List<Character> currentPermutation) {
-        if(currentPermutation.size() == characters.length) {
-            permutations.add(new ArrayList<>(currentPermutation));
-        } else {
+        if(currentPermutation.size() == characters.length)
+            permutations.add(new ArrayList<>(currentPermutation)); // creates a copy of the current permutation
+        else {
             for(int i = 0; i < characters.length; i++) {
                 if(visited.contains(i)) continue;
 

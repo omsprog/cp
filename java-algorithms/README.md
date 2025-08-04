@@ -1,9 +1,3 @@
-## Fundamentals
-
-- Linked List `LinkedList<Integer> list = new LinkedList<>();`
-- Stack `Stack<Integer> stack = new Stack<>();` `Deque<Integer> stack = new ArrayDeque<>();`
-- BFS
-
 ## Problems
 
 ### Array
@@ -211,3 +205,5 @@
 52. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) Jul 20, 2025
     - `O(n)` Merges consecutive sequences using a hash map that tracks their boundaries and lengths.
     - `O(n)` Add element to Set, get the elements that start the sequence and count the longest sequence
+53. [Rotate List](https://leetcode.com/problems/rotate-list) Aug 1, 2025
+    - `O(n)`

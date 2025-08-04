@@ -10,7 +10,7 @@ public class TestUtil {
         return node;
     }
 
-    public static ListNode buildLinkedList(int arr[]) {
+    public static ListNode buildLinkedList(int[] arr) {
         return buildLLRecursive(arr, 0);
     }
 
