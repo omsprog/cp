@@ -209,3 +209,5 @@
     - `O(n)` Add element to Set, get the elements that start the sequence and count the longest sequence
 53. [Rotate List](https://leetcode.com/problems/rotate-list) Aug 1, 2025
     - `O(n)`
+54. [Sort List](https://leetcode.com/problems/sort-list) Aug 2, 2025
+    - `O(n log n)`
