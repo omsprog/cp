@@ -128,6 +128,8 @@
 73. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) July 13, 2025
 74. [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) Jul 21, 2025
     - `O(n)` add elements to string builder and keep track of the last character and number of repeated characters
+75. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) Jul 1, 2025
+    - `O(n)`
 
 ## Medium Problems
 
