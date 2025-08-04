@@ -211,3 +211,5 @@
     - `O(n)`
 54. [Sort List](https://leetcode.com/problems/sort-list) Aug 2, 2025
     - `O(n log n)`
+55. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) Aug 3, 2025
+    - `O(4 ^ n)` 
