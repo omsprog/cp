@@ -15,7 +15,7 @@ public class LetterCombinationsOfPhoneNumber {
         for(char c : mapping.get(digit).toCharArray()) {
             sb.append(c);
             backtrack(input, sb, mapping, combinations, currentIndex + 1);
-            sb.setLength(sb.length() - 1);
+            sb.setLength(sb.length() - 1); // backtrack
         }
     }
 

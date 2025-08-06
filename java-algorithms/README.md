@@ -213,3 +213,5 @@
     - `O(n log n)`
 55. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) Aug 3, 2025
     - `O(4 ^ n)` 
+56. [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) Aug 4, 2025
+    - `O(n)` Two pointer
