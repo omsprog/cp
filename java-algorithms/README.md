@@ -217,3 +217,5 @@
     - `O(n)` Two pointers
 57. [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) Aug 11, 2025
     - `O(n)` Two Pointers
+58. [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string) Aug 11, 2025
+    - `O(n)`
