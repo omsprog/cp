@@ -2,37 +2,31 @@ package com.omsprog.algorithms.lc;
 
 public class MinimumNumberOfSwapsToMakeTheStringBalanced {
     public int minSwaps(String s) {
-        int a = 0;
-        int b = s.length() - 1;
+        int left = 0;
+        int right = s.length() - 1;
         int result = 0;
-        int aC = 0;
-        int bC = 0;
+        int leftBalance = 0;
+        int rightBalance = 0;
 
-        while(a < b) {
-            while(aC >= 0) {
-                if(a == b) return result;
-                char c = s.charAt(a);
-                if(c == '[')
-                    ++aC;
-                else
-                    --aC;
-                ++a;
+        while(left < right) {
+            while(true) {
+                if(left == right) return result;
+                leftBalance += (s.charAt(left) == '[') ? 1 : -1;
+                if(leftBalance < 0) break;
+                ++left;
             }
-            --a;
 
-            while(bC >= 0) {
-                if(a == b) return result;
-                char c = s.charAt(b);
-                if(c == ']')
-                    ++bC;
-                else
-                    --bC;
-                --b;
+            while(true) {
+                if(left == right) return result;
+                rightBalance += (s.charAt(right) == ']') ? 1 : -1;
+                if(rightBalance < 0) break;
+                --right;
             }
             ++result;
-            aC = 1;
-            bC = 1;
-            ++a;
+            leftBalance = 1;
+            rightBalance = 1;
+            ++left;
+            --right;
         }
 
         return result;
