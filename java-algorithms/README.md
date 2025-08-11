@@ -215,3 +215,5 @@
     - `O(4 ^ n)` 
 56. [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) Aug 4, 2025
     - `O(n)` Two pointers
+57. [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) Aug 11, 2025
+    - `O(n)` Two Pointers
