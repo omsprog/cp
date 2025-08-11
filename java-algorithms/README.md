@@ -221,3 +221,7 @@
     - `O(n)`
 59. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) Aug 11, 2025
     - `O(n)`
+60. [Permutations](https://leetcode.com/problems/permutations) Aug 11, 2025
+    - `O(n⋅n!)`
+61. [Permutations II](https://leetcode.com/problems/permutations-ii) Aug 11, 2025
+    - `O(n⋅n!)`
