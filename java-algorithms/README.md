@@ -225,3 +225,5 @@
     - `O(n⋅n!)`
 61. [Permutations II](https://leetcode.com/problems/permutations-ii) Aug 11, 2025
     - `O(n⋅n!)`
+62. [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) Aug 11. 2025
+    - `O(n)`
