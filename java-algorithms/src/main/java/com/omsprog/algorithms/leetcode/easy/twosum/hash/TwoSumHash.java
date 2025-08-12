@@ -1,8 +1,8 @@
-package com.omsprog.algorithms.lc;
+package com.omsprog.algorithms.leetcode.easy.twosum.hash;
 
 import java.util.*;
 // a + b = target   ->   target - b = a
-public class TwoSum {
+public class TwoSumHash {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> memory = new HashMap<>();
 
