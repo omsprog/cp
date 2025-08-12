@@ -12,12 +12,6 @@
 
 ### Hash and Set
 
-1. [Two Sum](https://leetcode.com/problems/two-sum) Easy - Jul 4, 2025
-   - `O(n^2)` Brute Force
-   - `O(n)`
-2. [3Sum](https://leetcode.com/problems/3sum) Medium - Jul 14, 2025
-   - `O(n^2)` generalization of Two Sum
-   - `O(n^2)` Two pointers
 3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) Medium - Jul 20, 2025
    - `O(n)` Merges consecutive sequences using a hash map that tracks their boundaries and lengths.
    - `O(n)` Add element to Set, get the elements that start the sequence and count the longest sequence
@@ -42,7 +36,7 @@
    - `O(n)`
 6. [Two Sum](https://leetcode.com/problems/two-sum)
    - `O(n^2)` Brute Force
-   - `O(n)`
+   - `O(n)` Hash Map
 7. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) January 22, 2025
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) January 22, 2025
 9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points) January 22, 2025
@@ -198,7 +192,7 @@
     - `O(h)`
 48. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) April 15, 2025
     - `O(n)`
-49. [3Sum](https://leetcode.com/problems/3sum) July 14, 2025
+49. [DONE](https://leetcode.com/problems/3sum)
 50. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) July 15, 2025
     - `O(log n)` Binary Search
 51. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) Jul 19, 2025

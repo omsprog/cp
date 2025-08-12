@@ -6,8 +6,8 @@ If yes, it returns the indices immediately, achieving a one-pass O(n) solution.
 
 ## Complexity Analysis
 
-    - Time: `O(n)`
-    - Space: `O(n)`
+Time: `O(n)`
+Space: `O(n)`
 
 ## Notes
 

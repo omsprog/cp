@@ -5,8 +5,8 @@ It uses two nested loops: for each element, it checks all subsequent elements fo
 
 ## Complexity Analysis
 
-    - Time: `O(n ^ 2)`
-    - Space: `O(1)`
+Time: `O(n ^ 2)`
+Space: `O(1)`
 
 ## Notes
 
