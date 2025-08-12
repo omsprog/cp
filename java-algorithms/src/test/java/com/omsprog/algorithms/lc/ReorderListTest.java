@@ -11,6 +11,6 @@ class ReorderListTest {
         ReorderList rL = new ReorderList();
         ListNode root1 = TestUtil.buildLinkedList(new int[]{1,2,3,4,5});
         rL.reorderList(root1);
-        assertTrue(TestUtil.isLinkedListValid(root1, new int[] {1,5,2,4,3}));
+        assertTrue(TestUtil.isLinkedListValid(new int[] {1,5,2,4,3}, root1));
     }
 }

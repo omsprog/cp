@@ -14,10 +14,10 @@ public class TestUtil {
         return buildLLRecursive(arr, 0);
     }
 
-    public static boolean isLinkedListValid(ListNode node, int[] arr) {
-        for(int ele : arr) {
-            if(ele != node.val) return false;
-            node = node.next;
+    public static boolean isLinkedListValid(int[] expectedArray, ListNode pointer) {
+        for(int element : expectedArray) {
+            if(element != pointer.val) return false;
+            pointer = pointer.next;
         }
         return true;
     }

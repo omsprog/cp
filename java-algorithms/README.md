@@ -13,11 +13,11 @@
 ### Hash and Set
 
 1. [Two Sum](https://leetcode.com/problems/two-sum) Easy - Jul 4, 2025
-   - Brute Force `O(n^2)`
+   - `O(n^2)` Brute Force
    - `O(n)`
 2. [3Sum](https://leetcode.com/problems/3sum) Medium - Jul 14, 2025
    - `O(n^2)` generalization of Two Sum
-   - `O(n^2)` two pointers
+   - `O(n^2)` Two pointers
 3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) Medium - Jul 20, 2025
    - `O(n)` Merges consecutive sequences using a hash map that tracks their boundaries and lengths.
    - `O(n)` Add element to Set, get the elements that start the sequence and count the longest sequence
@@ -30,8 +30,8 @@
 ## Easy Problems
 
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-    - Brute Force `O(n^2)`
-    - `O(n)`
+   - `O(n^2)` Brute Force
+   - `O(n)`
 2. [Counting Words with a Given String](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
    -`O(n)`
 3. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
@@ -41,8 +41,8 @@
 5. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
    -`O(n)`
 6. [Two Sum](https://leetcode.com/problems/two-sum)
-    - Brute Force `O(n^2)`
-    -`O(n)`
+   - `O(n^2)` Brute Force
+   - `O(n)`
 7. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) January 22, 2025
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) January 22, 2025
 9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points) January 22, 2025
@@ -225,5 +225,7 @@
     - `O(n⋅n!)`
 61. [Permutations II](https://leetcode.com/problems/permutations-ii) Aug 11, 2025
     - `O(n⋅n!)`
-62. [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) Aug 11. 2025
+62. [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) Aug 11, 2025
     - `O(n)`
+63. [Group Anagrams](https://leetcode.com/problems/group-anagrams) Aug 11, 2025
+    - `O(n * k log k)`

@@ -11,6 +11,6 @@ class RemoveLinkedListElementsTest {
         RemoveLinkedListElements rL = new RemoveLinkedListElements();
         ListNode l1 = TestUtil.buildLinkedList(new int[] {1,2,6,3,4,5,6});
         ListNode l1r = rL.removeElements(l1, 6);
-        assertTrue(TestUtil.isLinkedListValid(l1r, new int[] {1,2,3,4,5}));
+        assertTrue(TestUtil.isLinkedListValid(new int[] {1,2,3,4,5}, l1r));
     }
 }

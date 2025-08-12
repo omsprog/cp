@@ -11,15 +11,13 @@ class RemoveDuplicatesFromSortedListIITest {
         RemoveDuplicatesFromSortedListII rD = new RemoveDuplicatesFromSortedListII();
         assertTrue(
                 TestUtil.isLinkedListValid(
-                        rD.deleteDuplicates(TestUtil.buildLinkedList(new int[] {1,2,3,3,4,4,5})),
-                        new int[] {1,2,5}
+                        new int[] {1,2,5}, rD.deleteDuplicates(TestUtil.buildLinkedList(new int[] {1,2,3,3,4,4,5}))
                 )
         );
 
         assertTrue(
                 TestUtil.isLinkedListValid(
-                        rD.deleteDuplicates(TestUtil.buildLinkedList(new int[] {1,1,1,2,3})),
-                        new int[] {2,3}
+                        new int[] {2,3}, rD.deleteDuplicates(TestUtil.buildLinkedList(new int[] {1,1,1,2,3}))
                 )
         );
     }
