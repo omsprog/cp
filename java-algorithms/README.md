@@ -5,6 +5,8 @@
 1. [Two Sum](https://leetcode.com/problems/two-sum) Easy
    - Time `O(n ^ 2)` Space `O(1)` - Brute Force
    - Time `O(n)` Space `O(n)` - Hash Map
+2. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) Medium
+   - Time `O(m * n)` Space `O(m + n)` - Hash Set
 
 ### Two Pointers
 
