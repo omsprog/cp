@@ -10,5 +10,5 @@ Space: `O(1)`
 
 ## Notes
 
-    - This solution is straightforward but inefficient for large inputs.
-    - An optimized solution uses a HashMap to achieve O(n) time complexity.
+- This solution is straightforward but inefficient for large inputs.
+- An optimized solution uses a HashMap to achieve O(n) time complexity.

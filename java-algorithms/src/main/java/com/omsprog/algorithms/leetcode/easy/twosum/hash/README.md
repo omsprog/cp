@@ -11,4 +11,4 @@ Space: `O(n)`
 
 ## Notes
 
-    - This is the optimal solution for the Two Sum problem in terms of time complexity.
+- This is the optimal solution for the Two Sum problem in terms of time complexity.

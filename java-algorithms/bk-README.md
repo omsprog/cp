@@ -34,9 +34,7 @@
    - `O(n)`
 5. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
    - `O(n)`
-6. [Two Sum](https://leetcode.com/problems/two-sum)
-   - `O(n^2)` Brute Force
-   - `O(n)` Hash Map
+6. [DONE](https://leetcode.com/problems/two-sum)
 7. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) January 22, 2025
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) January 22, 2025
 9. [Minimum Time Visiting All Endpoints](https://leetcode.com/problems/minimum-time-visiting-all-points) January 22, 2025
@@ -124,6 +122,7 @@
     - `O(n)` add elements to string builder and keep track of the last character and number of repeated characters
 75. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) Jul 1, 2025
     - `O(n)`
+76. [DONE](https://leetcode.com/problems/valid-palindrome)
 
 ## Medium Problems
 
