@@ -1,5 +1,10 @@
 ## Problems
 
+## Arrays
+
+1. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) Medium
+   - Time `O(n)` Space `O(1)`
+
 ### Hash and Set
 
 1. [Two Sum](https://leetcode.com/problems/two-sum) Easy
