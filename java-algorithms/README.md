@@ -6,6 +6,8 @@
    - Time `O(n)` Space `O(1)`
 2. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) Easy
    - Time `O(n^2)` Space `O(1)`
+3. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) Easy
+   - Time `O(rows * cols)` Space `O(rows * cols)`
 
 ### Hash and Set
 
