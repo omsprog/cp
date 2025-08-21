@@ -4,6 +4,8 @@
 
 1. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) Medium
    - Time `O(n)` Space `O(1)`
+2. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) Easy
+   - Time `O(n^2)` Space `O(1)`
 
 ### Hash and Set
 
