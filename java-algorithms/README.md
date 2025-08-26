@@ -14,6 +14,8 @@
    - Time `O(n * n)` Space `O(n * n)`
 6. [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) Medium
    - Time `O(m * n)` Space `O(m * n)`
+7. [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle) Easy
+   - Time `O(n)` Space `O(1)`
 
 ### Hash and Set
 

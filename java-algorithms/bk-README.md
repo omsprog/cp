@@ -125,6 +125,7 @@
 76. [DONE](https://leetcode.com/problems/valid-palindrome)
 77. [DONE](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)
 78. [DONE](https://leetcode.com/problems/transpose-matrix)
+79. [DONE](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)
 
 ## Medium Problems
 
