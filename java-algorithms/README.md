@@ -10,6 +10,8 @@
    - Time `O(rows * cols)` Space `O(rows * cols)`
 4. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) Medium
    - Time `O(m * n)` Space `O(m * n)`
+5. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) Medium
+   - Time `O(n * n)` Space `O(n * n)`
 
 ### Hash and Set
 
