@@ -8,6 +8,8 @@
    - Time `O(n^2)` Space `O(1)`
 3. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) Easy
    - Time `O(rows * cols)` Space `O(rows * cols)`
+4. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) Medium
+   - Time `O(m * n)` Space `O(m * n)`
 
 ### Hash and Set
 
