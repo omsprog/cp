@@ -127,6 +127,7 @@
 78. [DONE](https://leetcode.com/problems/transpose-matrix)
 79. [DONE](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)
 80. [DONE](https://leetcode.com/problems/contains-duplicate-ii)
+81. [DONE](https://leetcode.com/problems/happy-number)
 
 ## Medium Problems
 

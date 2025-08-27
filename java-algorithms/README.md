@@ -1,6 +1,6 @@
 ## Problems
 
-## Arrays
+### Arrays
 
 1. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) Medium
    - Time `O(n)` Space `O(1)`
@@ -24,6 +24,8 @@
    - Time `O(n)` Space `O(n)` - Hash Map
 2. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) Medium
    - Time `O(m * n)` Space `O(m + n)` - Hash Set
+3. [Happy Number](https://leetcode.com/problems/happy-number) Easy
+   - Time `O(k * log n)` Space `O(k)`
 
 ### Two Pointers
 
@@ -38,3 +40,26 @@
 
 1. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
    - Time `O(n)` Space `O(min(n, k))` Fixed sliding window
+
+
+## Tricks
+
+- Convert a digit character to int: `int local = mToString.charAt(i) - '0';`
+
+- Digit extraction using modulo and integer division:
+
+```java
+private int getNext(int n) {
+    int res = 0;
+    while (n > 0) {
+        int digit = n % 10;
+        res += digit * digit;
+        n /= 10;
+    }
+    return res;
+}
+`````
+
+## TODO
+
+- Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm
