@@ -1,8 +1,8 @@
-package com.omsprog.algorithms.lc;
+package com.omsprog.algorithms.leetcode.easy.palindromenumber;
 
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {
-        String xS = new String("" + x);
+        String xS = "" + x;
         int l = 0;
         int r = xS.length() - 1;
 

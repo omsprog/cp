@@ -77,7 +77,7 @@
 42. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) Mar 3, 2025
 43. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side) Mar 3, 2025
 44. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) Mar 3, 2025
-45. [Palindrome Number](https://leetcode.com/problems/palindrome-number) Mar 3, 2025
+45. [DONE](https://leetcode.com/problems/palindrome-number)
 46. [Monotonic Array](https://leetcode.com/problems/monotonic-array) Mar 3, 2025
 47. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) Mar 3, 2025
 48. [Power Of Two](https://leetcode.com/problems/power-of-two) Mar 3, 2025
