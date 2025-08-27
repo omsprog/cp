@@ -63,7 +63,7 @@
 30. [Counting Bits](https://leetcode.com/problems/counting-bits) Feb 18, 2025
 31. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) Feb 18, 2025
 32. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) Feb 19, 2025
-33. [Move Zeroes](https://leetcode.com/problems/move-zeroes) Feb 20, 2025
+33. [DONE](https://leetcode.com/problems/move-zeroes)
 34. [Is Subsequence](https://leetcode.com/problems/is-subsequence) Feb 20, 2025
 35. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) Feb 24, 2025
     - Recursive DFS

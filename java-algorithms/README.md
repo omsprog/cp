@@ -37,8 +37,12 @@
    - Time `O(m · (n + p))` Space `O(m + n + p)`
 4. [Palindrome Number](https://leetcode.com/problems/palindrome-number) Easy
    - Time `O(n)` Space `O(n)`
-5. [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+5. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) Medium
    - Time `O(n)` Space `O(1)`
+6. [Move Zeroes](https://leetcode.com/problems/move-zeroes) Easy
+   - Time `O(n)` Space `O(1)` Two Pointers I
+   - Time `O(n)` Space `O(n)` Queue
+   - Time `O(n)` Space `O(1)` Two Pointers II
 
 ### Sliding Window
 
