@@ -1,4 +1,4 @@
-package com.omsprog.algorithms.lc;
+package com.omsprog.algorithms.leetcode.medium.containerwithmostwater;
 
 import org.junit.jupiter.api.Test;
 
