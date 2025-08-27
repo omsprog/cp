@@ -35,7 +35,7 @@
    - Time `O(n)` Space `O(1)`
 3. [Camelcase Matching](https://leetcode.com/problems/camelcase-matching) Medium
    - Time `O(m · (n + p))` Space `O(m + n + p)`
-4. [Palindrome Number](https://leetcode.com/problems/palindrome-number)
+4. [Palindrome Number](https://leetcode.com/problems/palindrome-number) Easy
    - Time `O(n)` Space `O(n)`
 
 ### Sliding Window
@@ -43,6 +43,10 @@
 1. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
    - Time `O(n)` Space `O(min(n, k))` Fixed sliding window
 
+### Math
+
+1. [Add Digits](https://leetcode.com/problems/add-digits) Easy
+   - Time `O(k * log n)` Space `O(1)`
 
 ## Tricks
 

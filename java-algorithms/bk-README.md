@@ -89,7 +89,7 @@
 51. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) Mar 6, 2025
 52. [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) Mar 6, 2025
 53. [Majority Element](https://leetcode.com/problems/majority-element) Mar 7, 2025
-54. [Add Digits](https://leetcode.com/problems/add-digits) Mar 7, 2025
+54. [DONE](https://leetcode.com/problems/add-digits)
 55. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) Mar 7, 2025
 56. [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) Mar 7, 2025
     - `O(n)` sliding window
