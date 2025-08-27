@@ -47,6 +47,8 @@
 
 1. [Add Digits](https://leetcode.com/problems/add-digits) Easy
    - Time `O(k * log n)` Space `O(1)`
+2. [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) Easy
+   - Time `O(n)` Space `O(1)`
 
 ## Tricks
 
