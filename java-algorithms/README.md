@@ -33,3 +33,8 @@
    - Time `O(n)` Space `O(1)`
 3. [Camelcase Matching](https://leetcode.com/problems/camelcase-matching) Medium
    - Time `O(m · (n + p))` Space `O(m + n + p)`
+
+### Sliding Window
+
+1. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
+   - Time `O(n)` Space `O(min(n, k))` Fixed sliding window

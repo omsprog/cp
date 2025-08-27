@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ContainsDuplicateTest {
+class ContainsDuplicateIITest {
     @Test
     void test() {
         ContainsDuplicate cD = new ContainsDuplicate();
