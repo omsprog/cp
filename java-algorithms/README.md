@@ -48,6 +48,11 @@
    - Time `O(n)` Space `O(n)` Queue
    - Time `O(n)` Space `O(1)` Two Pointers II
 
+### Linked List
+
+1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) Easy
+   - Time `O(n)` Space `O(1)` Iterative
+
 ### Sliding Window
 
 1. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy

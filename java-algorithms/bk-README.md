@@ -50,7 +50,7 @@
 17. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) Feb 4, 2025
 18. [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) Feb 6, 2025
 19. [Reverse String](https://leetcode.com/problems/reverse-string) Feb 6, 2025
-20. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) Feb 7, 2025
+20. [DONE](https://leetcode.com/problems/reverse-linked-list)
 21. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) Feb 8, 2025
 22. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) Feb 9, 2025
 23. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) Feb 17, 2025
