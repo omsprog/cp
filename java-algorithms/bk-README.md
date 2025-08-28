@@ -187,8 +187,7 @@
     - `O(n)`  
 43. [Rotate Array](https://leetcode.com/problems/rotate-array) April 12, 2025
     - `O(n)`
-44. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) April 12, 2025
-    - `O(n^2)` (Optimal solution)
+44. [DONE](https://leetcode.com/problems/valid-sudoku)
 45. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) April 15, 2025
     - `O(log n)` Binary Search
 46. [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) April 15, 2025

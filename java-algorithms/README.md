@@ -5,17 +5,19 @@
 1. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) Medium
    - Time `O(n)` Space `O(1)`
 2. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) Easy
-   - Time `O(n^2)` Space `O(1)`
+   - Time `O(n ^ 2)` Space `O(1)`
 3. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) Easy
    - Time `O(rows * cols)` Space `O(rows * cols)`
 4. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) Medium
    - Time `O(m * n)` Space `O(m * n)`
 5. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) Medium
-   - Time `O(n * n)` Space `O(n * n)`
+   - Time `O(n ^ 2)` Space `O(n ^ 2)`
 6. [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) Medium
    - Time `O(m * n)` Space `O(m * n)`
 7. [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle) Easy
    - Time `O(n)` Space `O(1)`
+8. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) Medium
+   - Time `O(81)` Space `O(1)`
 
 ### Hash and Set
 
