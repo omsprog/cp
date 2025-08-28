@@ -18,6 +18,8 @@
    - Time `O(n)` Space `O(1)`
 8. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) Medium
    - Time `O(81)` Space `O(1)`
+9. [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) Easy
+   - Time `O(n ^ 2)` Space `O(n ^ 2)`
 
 ### Hash and Set
 

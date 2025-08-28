@@ -129,6 +129,7 @@
 80. [DONE](https://leetcode.com/problems/contains-duplicate-ii)
 81. [DONE](https://leetcode.com/problems/happy-number)
 82. [DONE](https://leetcode.com/problems/count-the-digits-that-divide-a-number)
+83. [DONE](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)
 
 ## Medium Problems
 
