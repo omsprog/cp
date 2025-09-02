@@ -54,6 +54,9 @@
 
 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) Easy
    - Time `O(n)` Space `O(1)` Iterative
+   - Time `O(n)` Space `O(n)` Recursive
+2. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) Medium
+   - Time `O(L)` Space `O(1)` 
 
 ### Sliding Window
 

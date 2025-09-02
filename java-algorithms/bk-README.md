@@ -144,7 +144,7 @@
 7. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) February 2, 2025
     - `O(n)`
 8. [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) February 2, 2025
-9. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) February 5, 2025
+9. [DONE](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 10. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) Feb 17, 2025
 11. [String Compression](https://leetcode.com/problems/string-compression) Feb 18, 2025
 12. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) Feb 18, 2025
