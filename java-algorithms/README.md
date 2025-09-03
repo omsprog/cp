@@ -61,6 +61,8 @@
 3. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) Easy
    - Time `O(lenA + lenB)` Space `O(lenA)` Set
    - Time `O(lenA + lenB)` Space `O(1)` Combination of list1 and list2
+4. [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) Medium
+   - Time `O(n + m)` Space `O(m)`
 
 ### Sliding Window
 
