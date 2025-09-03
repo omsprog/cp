@@ -58,6 +58,9 @@
 2. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) Medium
    - Time `O(L)` Space `O(1)` Two passes
    - Time `O(L)` Space `O(1)` Slow and fast pointers
+3. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) Easy
+   - Time `O(lenA + lenB)` Space `O(lenA)` Set
+   - Time `O(lenA + lenB)` Space `O(1)` Combination of list1 and list2
 
 ### Sliding Window
 
