@@ -62,7 +62,10 @@
    - Time `O(lenA + lenB)` Space `O(lenA)` Set
    - Time `O(lenA + lenB)` Space `O(1)` Combination of list1 and list2
 4. [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) Medium
-   - Time `O(n + m)` Space `O(m)`
+   - Time `O(n + m)` Space `O(m)` Delete nodes in-place
+5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) Easy 
+   - Time `O(n)` Space `O(n/2)` Stack approach
+   - Time `O(n)` Space `O(1)` Slow and fast pointers
 
 ### Sliding Window
 
@@ -97,3 +100,4 @@ private int getNext(int n) {
 ## TODO
 
 - Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm
+- https://leetcode.com/problems/lru-cache/

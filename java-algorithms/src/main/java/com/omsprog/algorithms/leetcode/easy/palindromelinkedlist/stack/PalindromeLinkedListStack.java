@@ -1,9 +1,11 @@
-package com.omsprog.algorithms.lc;
+package com.omsprog.algorithms.leetcode.easy.palindromelinkedlist.stack;
+
+import com.omsprog.algorithms.lc.ListNode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class PalindromeLinkedList {
+public class PalindromeLinkedListStack {
     public boolean isPalindrome(ListNode head) {
         int items = 0;
 
@@ -17,7 +19,6 @@ public class PalindromeLinkedList {
         boolean isEven = items % 2 == 0;
 
         Deque<Integer> stack = new ArrayDeque<>();
-
 
         pointer = head;
         for(int i = 0; i < items / 2; i++) {

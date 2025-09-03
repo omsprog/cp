@@ -53,7 +53,7 @@
 20. [DONE](https://leetcode.com/problems/reverse-linked-list)
 21. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) Feb 8, 2025
 22. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) Feb 9, 2025
-23. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) Feb 17, 2025
+23. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
 24. [Baseball Game](https://leetcode.com/problems/baseball-game) Feb 17, 2025
 25. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) Feb 17, 2025
 26. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) Feb 17, 2025
