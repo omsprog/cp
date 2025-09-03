@@ -1,8 +1,8 @@
-package com.omsprog.algorithms.leetcode.medium.removenthnodefromendoflist;
+package com.omsprog.algorithms.leetcode.medium.removenthnodefromendoflist.twopasses;
 
 import com.omsprog.algorithms.lc.ListNode;
 
-public class RemoveNthNodeFromEndOfList {
+public class RemoveNthNodeFromEndOfListTwoPasses {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         // calculate the length of the list
         int listLength = 0;

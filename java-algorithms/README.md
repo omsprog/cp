@@ -56,7 +56,8 @@
    - Time `O(n)` Space `O(1)` Iterative
    - Time `O(n)` Space `O(n)` Recursive
 2. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) Medium
-   - Time `O(L)` Space `O(1)` 
+   - Time `O(L)` Space `O(1)` Two passes
+   - Time `O(L)` Space `O(1)` Slow and fast pointers
 
 ### Sliding Window
 
