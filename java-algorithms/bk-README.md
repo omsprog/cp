@@ -233,3 +233,4 @@
 68. [DONE](https://leetcode.com/problems/spiral-matrix-iv)
 69. [DONE](https://leetcode.com/problems/sort-matrix-by-diagonals)
 70. [DONE](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)
+71. [DONE](https://leetcode.com/problems/reverse-linked-list-ii)
