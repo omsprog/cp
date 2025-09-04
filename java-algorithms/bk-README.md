@@ -45,7 +45,7 @@
 14. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) January 24, 2025
 15. [DONE](https://leetcode.com/problems/middle-of-the-linked-list)
 16. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) February 2, 2025
-17. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) Feb 4, 2025
+17. [DONE](https://leetcode.com/problems/linked-list-cycle)
 18. [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) Feb 6, 2025
 19. [Reverse String](https://leetcode.com/problems/reverse-string) Feb 6, 2025
 20. [DONE](https://leetcode.com/problems/reverse-linked-list)

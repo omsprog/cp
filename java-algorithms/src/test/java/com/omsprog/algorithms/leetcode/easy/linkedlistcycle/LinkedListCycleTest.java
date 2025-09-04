@@ -1,5 +1,6 @@
-package com.omsprog.algorithms.lc;
+package com.omsprog.algorithms.leetcode.easy.linkedlistcycle;
 
+import com.omsprog.algorithms.lc.ListNode;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

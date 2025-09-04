@@ -72,6 +72,8 @@
 1. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) Easy
    - Time `O(n)` Space `O(1)` Fast and slow pointers
    - Time `O(n)` Space `O(1)` Count and get
+2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) Easy
+   - Time `O(n)` Space `O(1)`
 
 ### Sliding Window
 
@@ -107,5 +109,5 @@ private int getNext(int n) {
 
 ## TODO
 
-- Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm
+- Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm (Fast and slow pointers)
 - https://leetcode.com/problems/lru-cache/
