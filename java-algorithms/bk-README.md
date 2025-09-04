@@ -235,3 +235,4 @@
 70. [DONE](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)
 71. [DONE](https://leetcode.com/problems/reverse-linked-list-ii)
 72. [DONE](https://leetcode.com/problems/merge-nodes-in-between-zeros)
+73. [DONE](https://leetcode.com/problems/rotate-image)

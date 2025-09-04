@@ -21,7 +21,9 @@
 9. [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) Easy
    - Time `O(n ^ 2)` Space `O(n ^ 2)`
 10. [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals) Medium
-   - Time `O(n² log n)` Space `O(n)`
+   - Time `O(n ^ 2 log n)` Space `O(n)`
+11. [Rotate Image](https://leetcode.com/problems/rotate-image) Medium
+   - Time: `O(n ^ 2)` Space `O(1)`
 
 ### Hash and Set
 
