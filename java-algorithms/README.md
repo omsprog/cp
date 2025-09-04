@@ -32,6 +32,8 @@
    - Time `O(m * n)` Space `O(m + n)` - Hash Set
 3. [Happy Number](https://leetcode.com/problems/happy-number) Easy
    - Time `O(k * log n)` Space `O(k)`
+4. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) Easy
+   - Time `O(n + m)` Space `O(n)`
 
 ### Two Pointers
 

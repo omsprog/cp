@@ -128,6 +128,7 @@
 82. [DONE](https://leetcode.com/problems/count-the-digits-that-divide-a-number)
 83. [DONE](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)
 84. [DONE](https://leetcode.com/problems/find-closest-person)
+85. [DONE](https://leetcode.com/problems/jewels-and-stones)
 
 ## Medium Problems
 
