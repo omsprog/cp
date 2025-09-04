@@ -78,6 +78,8 @@
    - Time `O(k * log n)` Space `O(1)`
 2. [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) Easy
    - Time `O(n)` Space `O(1)`
+3. [Find Closest Person](https://leetcode.com/problems/find-closest-person) Easy
+   - Time `O(1)` Space `O(1)`
 
 ## Tricks
 
