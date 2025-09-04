@@ -66,6 +66,8 @@
 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) Easy 
    - Time `O(n)` Space `O(n/2)` Stack approach
    - Time `O(n)` Space `O(1)` Fast and slow pointers
+6. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) Medium
+   - Time `O(n)` Space `O(n)` HashSet
 
 ### Fast and Slow pointers
 

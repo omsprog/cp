@@ -1,4 +1,6 @@
-package com.omsprog.algorithms.lc;
+package com.omsprog.algorithms.leetcode.medium.linkedlistcycleii;
+
+import com.omsprog.algorithms.lc.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;
