@@ -80,6 +80,8 @@
    - Time `O(n + m)` Space `O(1)`
 10. [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) Medium
    - Time `O(n)` Space `O(n)`
+11. [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list) Medium
+   - Time `O(n)` Space `O(n)`
 
 ### Fast and Slow pointers
 
@@ -108,6 +110,7 @@
 ## TODO
 
 - Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm (Fast and slow pointers)
+- Optimize `Remove Nodes From Linked List`, it can be solved in `O(1)` space
 - https://leetcode.com/problems/lru-cache/
 
 ## Tricks
