@@ -237,3 +237,4 @@
 72. [DONE](https://leetcode.com/problems/merge-nodes-in-between-zeros)
 73. [DONE](https://leetcode.com/problems/rotate-image)
 74. [DONE](https://leetcode.com/problems/merge-in-between-linked-lists)
+75. [DONE](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)

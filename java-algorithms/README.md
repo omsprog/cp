@@ -91,6 +91,8 @@
 
 1. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
    - Time `O(n)` Space `O(min(n, k))` Fixed sliding window
+2. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
+   - Time `O(n)` Space `O(1)` Fixed sliding window
 
 ### Math
 
@@ -100,6 +102,11 @@
    - Time `O(n)` Space `O(1)`
 3. [Find Closest Person](https://leetcode.com/problems/find-closest-person) Easy
    - Time `O(1)` Space `O(1)`
+
+## TODO
+
+- Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm (Fast and slow pointers)
+- https://leetcode.com/problems/lru-cache/
 
 ## Tricks
 
@@ -118,8 +125,3 @@ private int getNext(int n) {
     return res;
 }
 `````
-
-## TODO
-
-- Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm (Fast and slow pointers)
-- https://leetcode.com/problems/lru-cache/
