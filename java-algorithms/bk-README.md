@@ -238,3 +238,4 @@
 73. [DONE](https://leetcode.com/problems/rotate-image)
 74. [DONE](https://leetcode.com/problems/merge-in-between-linked-lists)
 75. [DONE](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)
+76. [DONE](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list)
