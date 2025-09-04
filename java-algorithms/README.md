@@ -36,6 +36,8 @@
    - Time `O(k * log n)` Space `O(k)`
 4. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) Easy
    - Time `O(n + m)` Space `O(n)`
+5. [Majority Element II](https://leetcode.com/problems/majority-element-ii) Medium
+   - Time `O(n)` Space `O(n)`
 
 ### Two Pointers
 
@@ -79,9 +81,9 @@
 9. [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) Medium
    - Time `O(n + m)` Space `O(1)`
 10. [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) Medium
-   - Time `O(n)` Space `O(n)`
+    - Time `O(n)` Space `O(n)`
 11. [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list) Medium
-   - Time `O(n)` Space `O(n)`
+    - Time `O(n)` Space `O(n)`
 
 ### Fast and Slow pointers
 
