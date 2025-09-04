@@ -1,6 +1,8 @@
-package com.omsprog.algorithms.lc;
+package com.omsprog.algorithms.leetcode.easy.middleofthelinkedlist.count;
 
-public class MiddleOfTheLinkedList {
+import com.omsprog.algorithms.lc.ListNode;
+
+public class MiddleOfTheLinkedListCount {
     public ListNode middleNode(ListNode head) {
         int listLength = 0;
         ListNode targetNode = head;

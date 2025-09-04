@@ -57,7 +57,7 @@
    - Time `O(n)` Space `O(n)` Recursive
 2. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) Medium
    - Time `O(L)` Space `O(1)` Two passes
-   - Time `O(L)` Space `O(1)` Slow and fast pointers
+   - Time `O(L)` Space `O(1)` Fast and slow pointers
 3. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) Easy
    - Time `O(lenA + lenB)` Space `O(lenA)` Set
    - Time `O(lenA + lenB)` Space `O(1)` Combination of list1 and list2
@@ -65,7 +65,13 @@
    - Time `O(n + m)` Space `O(m)` Delete nodes in-place
 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) Easy 
    - Time `O(n)` Space `O(n/2)` Stack approach
-   - Time `O(n)` Space `O(1)` Slow and fast pointers
+   - Time `O(n)` Space `O(1)` Fast and slow pointers
+
+### Fast and Slow pointers
+
+1. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) Easy
+   - Time `O(n)` Space `O(1)` Fast and slow pointers
+   - Time `O(n)` Space `O(1)` Count and get
 
 ### Sliding Window
 
