@@ -72,6 +72,8 @@
    - Time `O(n)` Space `O(n)` HashSet
 7. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) Medium
    - Time `O(n)` Space `O(1)`
+8. [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) Medium
+   - Time `O(n)` Space `O(1)`
 
 ### Fast and Slow pointers
 
