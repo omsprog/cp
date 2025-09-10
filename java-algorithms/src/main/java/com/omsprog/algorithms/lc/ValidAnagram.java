@@ -28,6 +28,6 @@ public class ValidAnagram {
                 return false;
         }
 
-        return memory.size() == 0;
+        return memory.isEmpty();
     }
 }
