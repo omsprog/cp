@@ -66,7 +66,7 @@
 35. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) Feb 24, 2025
     - Recursive DFS
     - BFS
-36. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) Feb 25, 2025
+36. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
 37. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) Feb 27, 2025
 38. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) Feb 27, 2025
 39. [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) Mar 1, 2025

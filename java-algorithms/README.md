@@ -95,9 +95,12 @@
 
 ### Sliding Window
 
-1. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
+1. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) Easy
+   - Time `O(n)` Space `O(1)` Build and Slide (Fixed sliding window)
+   - Time `O(n)` Space `O(1)` Fixed sliding window
+2. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
    - Time `O(n)` Space `O(min(n, k))` Fixed sliding window
-2. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
+3. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
    - Time `O(n)` Space `O(1)` Fixed sliding window
 
 ### Math
