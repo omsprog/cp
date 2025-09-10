@@ -23,7 +23,9 @@
 10. [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals) Medium
     - Time `O(n ^ 2 log n)` Space `O(n)`
 11. [Rotate Image](https://leetcode.com/problems/rotate-image) Medium
-    - Time: `O(n ^ 2)` Space `O(1)`
+    - Time `O(n ^ 2)` Space `O(1)`
+12. [Valid Anagram](https://leetcode.com/problems/valid-anagram) Easy
+   - Time `O(n)` Space `O(1)`
 
 ### Hash and Set
 
@@ -98,12 +100,12 @@
 1. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) Easy
    - Time `O(n)` Space `O(1)` Build and Slide (Fixed sliding window)
    - Time `O(n)` Space `O(1)` Fixed sliding window
-2. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
-   - Time `O(n)` Space `O(min(n, k))` Fixed sliding window
-3. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
+2. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) Medium
    - Time `O(n)` Space `O(1)` Fixed sliding window
-4. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) Medium
-   - Time `O(n)` Space `O(1)`
+3. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
+   - Time `O(n)` Space `O(min(n, k))` Fixed sliding window
+4. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
+   - Time `O(n)` Space `O(1)` Fixed sliding window
 
 ### Math
 
@@ -135,5 +137,17 @@ private int getNext(int n) {
         n /= 10;
     }
     return res;
+}
+`````
+- Character frequency:
+
+```java
+private int[] calculateFrequency(String p) {
+    int[] freqP = new int[26];
+    for (int i = 0; i < p.length(); i++) {
+        char c = p.charAt(i);
+        freqP[c - 'a'] = freqP[c - 'a'] + 1;
+    }
+    return freqP;
 }
 `````

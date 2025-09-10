@@ -112,8 +112,7 @@
 70. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) April 15, 2025
     - `O(h)`
 71. [DONE](https://leetcode.com/problems/intersection-of-two-linked-lists)
-72. [Valid Anagram](https://leetcode.com/problems/valid-anagram) April 16, 2025
-    - `O(n)`
+72. [DONE](https://leetcode.com/problems/valid-anagram)
 73. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) July 13, 2025
 74. [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) Jul 21, 2025
     - `O(n)` add elements to string builder and keep track of the last character and number of repeated characters
