@@ -102,9 +102,11 @@
    - Time `O(n)` Space `O(1)` Fixed sliding window
 2. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) Medium
    - Time `O(n)` Space `O(1)` Fixed sliding window
-3. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
+3. [Permutation in String](https://leetcode.com/problems/permutation-in-string) Medium
+   - Time `O(n)` Space `O(1)` Fixed sliding window
+4. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) Easy
    - Time `O(n)` Space `O(min(n, k))` Fixed sliding window
-4. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
+5. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
    - Time `O(n)` Space `O(1)` Fixed sliding window
 
 ### Math

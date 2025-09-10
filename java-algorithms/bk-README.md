@@ -240,4 +240,5 @@
 76. [DONE](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list)
 77. [DONE](https://leetcode.com/problems/remove-nodes-from-linked-list)
 78. [DONE](https://leetcode.com/problems/majority-element-ii)
-79. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+79. [DONE](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+80. [DONE](https://leetcode.com/problems/permutation-in-string)
