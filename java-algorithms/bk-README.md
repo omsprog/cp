@@ -128,6 +128,7 @@
 83. [DONE](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)
 84. [DONE](https://leetcode.com/problems/find-closest-person)
 85. [DONE](https://leetcode.com/problems/jewels-and-stones)
+86. [DONE](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters)
 
 ## Medium Problems
 

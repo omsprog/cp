@@ -108,6 +108,8 @@
    - Time `O(n)` Space `O(min(n, k))` Fixed sliding window
 5. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
    - Time `O(n)` Space `O(1)` Fixed sliding window
+6. [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) Easy
+   - Time `O(n)` Size `O(1)` Fixed sliding window
 
 ### Math
 
