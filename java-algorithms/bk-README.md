@@ -244,3 +244,4 @@
 80. [DONE](https://leetcode.com/problems/permutation-in-string)
 81. [DONE](https://leetcode.com/problems/sort-vowels-in-a-string)
 82. [DONE](https://leetcode.com/problems/k-radius-subarray-averages)
+83. [DONE](https://leetcode.com/problems/longest-repeating-character-replacement)

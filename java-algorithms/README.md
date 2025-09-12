@@ -116,6 +116,8 @@
    - Time `O(n)` Space `O(n)` Fixed sliding window
 8. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) Medium
    - Time `O(n)` Space `O(n)` Dynamic sliding window
+9. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) Medium
+   - Time `O(n)` Space `O(1)` Dynamic sliding window
 
 ### Math
 
