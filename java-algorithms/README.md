@@ -25,7 +25,9 @@
 11. [Rotate Image](https://leetcode.com/problems/rotate-image) Medium
     - Time `O(n ^ 2)` Space `O(1)`
 12. [Valid Anagram](https://leetcode.com/problems/valid-anagram) Easy
-   - Time `O(n)` Space `O(1)`
+    - Time `O(n)` Space `O(1)`
+13. [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) Medium
+    - Time `O(n log n)` Space `O(k)`
 
 ### Hash and Set
 
@@ -122,6 +124,8 @@
 
 ## TODO
 
+- https://leetcode.com/problems/longest-substring-without-repeating-characters
+- https://leetcode.com/problems/longest-repeating-character-replacement
 - Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm (Fast and slow pointers)
 - Optimize `Remove Nodes From Linked List`, it can be solved in `O(1)` space
 - https://leetcode.com/problems/lru-cache/
