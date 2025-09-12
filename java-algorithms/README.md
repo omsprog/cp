@@ -111,7 +111,9 @@
 5. [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) Medium
    - Time `O(n)` Space `O(1)` Fixed sliding window
 6. [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) Easy
-   - Time `O(n)` Size `O(1)` Fixed sliding window
+   - Time `O(n)` Space `O(1)` Fixed sliding window
+7. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) Medium
+   - Time `O(n)` Space `O(n)`
 
 ### Math
 
