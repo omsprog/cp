@@ -112,8 +112,10 @@
    - Time `O(n)` Space `O(1)` Fixed sliding window
 6. [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) Easy
    - Time `O(n)` Space `O(1)` Fixed sliding window
-7. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) Medium
-   - Time `O(n)` Space `O(n)`
+7. [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) Medium
+   - Time `O(n)` Space `O(n)` Fixed sliding window
+8. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) Medium
+   - Time `O(n)` Space `O(n)` Dynamic sliding window
 
 ### Math
 

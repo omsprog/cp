@@ -243,3 +243,4 @@
 79. [DONE](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 80. [DONE](https://leetcode.com/problems/permutation-in-string)
 81. [DONE](https://leetcode.com/problems/sort-vowels-in-a-string)
+82. [DONE](https://leetcode.com/problems/k-radius-subarray-averages)
