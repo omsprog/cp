@@ -34,7 +34,9 @@
     - Time `O(n)` Space `O(n)`
 16. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
     - Time `O(n)` Space `O(1)`
-
+17. [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element)
+    - Time `O(n)` Space `O(n)`
+    
 ### Hash and Set
 
 1. [Two Sum](https://leetcode.com/problems/two-sum) Easy

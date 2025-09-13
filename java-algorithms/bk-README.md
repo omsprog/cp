@@ -132,6 +132,7 @@
 87. [DONE](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant)
 88. [DONE](https://leetcode.com/problems/maximum-number-of-pairs-in-array)
 89. [DONE](https://leetcode.com/problems/first-unique-character-in-a-string)
+90. [DONE](https://leetcode.com/problems/most-frequent-even-element)
 
 ## Medium Problems
 
