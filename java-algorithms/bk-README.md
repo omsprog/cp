@@ -129,6 +129,7 @@
 84. [DONE](https://leetcode.com/problems/find-closest-person)
 85. [DONE](https://leetcode.com/problems/jewels-and-stones)
 86. [DONE](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters)
+87. [DONE](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant)
 
 ## Medium Problems
 

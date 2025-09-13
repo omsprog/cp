@@ -28,6 +28,8 @@
     - Time `O(n)` Space `O(1)`
 13. [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) Medium
     - Time `O(n log n)` Space `O(k)`
+14. [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) Easy
+   - Time `O(n)` Space `O(1)`
 
 ### Hash and Set
 
