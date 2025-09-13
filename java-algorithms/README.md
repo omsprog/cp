@@ -31,7 +31,9 @@
 14. [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) Easy
     - Time `O(n)` Space `O(1)`
 15. [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) Easy
-   - Time `O(n)` Space `O(n)`
+    - Time `O(n)` Space `O(n)`
+16. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
+    - Time `O(n)` Space `O(1)`
 
 ### Hash and Set
 
