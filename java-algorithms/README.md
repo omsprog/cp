@@ -29,7 +29,9 @@
 13. [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) Medium
     - Time `O(n log n)` Space `O(k)`
 14. [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) Easy
-   - Time `O(n)` Space `O(1)`
+    - Time `O(n)` Space `O(1)`
+15. [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) Easy
+   - Time `O(n)` Space `O(n)`
 
 ### Hash and Set
 
