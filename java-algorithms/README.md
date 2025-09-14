@@ -50,9 +50,9 @@
    - Time `O(n + m)` Space `O(n)`
 5. [Majority Element II](https://leetcode.com/problems/majority-element-ii) Medium
    - Time `O(n)` Space `O(n)`
-6. [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)
+6. [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array) Easy
    - Time `O(n)` Space `O(m)`
-7. [Sort the People](https://leetcode.com/problems/sort-the-people)
+7. [Sort the People](https://leetcode.com/problems/sort-the-people) Easy
    - Time `O(n log n)` Space `O(n)`
 
 ### Two Pointers
@@ -130,6 +130,9 @@
    - Time `O(n)` Space `O(n)` Dynamic sliding window
 9. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) Medium
    - Time `O(n)` Space `O(1)` Dynamic sliding window
+10. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) Medium
+   - Time `O(n)` Space `O(1)` Dynamic sliding window
+
 
 ### Math
 
