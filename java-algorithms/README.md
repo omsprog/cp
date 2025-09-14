@@ -137,7 +137,9 @@
 12. [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order) Medium
     - Time `O(n)` Space `O(1)` Dynamic sliding window
 13. [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam) Medium
-    - Time `O(n)` Space `O(1)`
+    - Time `O(n)` Space `O(1)` Dynamic sliding window
+14. [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) Medium
+    - Time `O(n)` Space `O(1)` Dynamic sliding window
 
 ### Math
 
