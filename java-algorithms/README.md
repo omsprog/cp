@@ -142,6 +142,8 @@
     - Time `O(n)` Space `O(1)` Dynamic sliding window
 15. [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) Medium
     - Time `O(n)` Space `O(1)` Dynamic sliding window
+16. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) Medium
+    - Time `O(n)` Space `O(1)` Dynamic sliding window
 
 ### Math
 
