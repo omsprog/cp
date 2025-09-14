@@ -52,6 +52,8 @@
    - Time `O(n)` Space `O(n)`
 6. [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)
    - Time `O(n)` Space `O(m)`
+7. [Sort the People](https://leetcode.com/problems/sort-the-people)
+   - Time `O(n log n)` Space `O(n)`
 
 ### Two Pointers
 
