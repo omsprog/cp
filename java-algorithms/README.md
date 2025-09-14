@@ -50,6 +50,8 @@
    - Time `O(n + m)` Space `O(n)`
 5. [Majority Element II](https://leetcode.com/problems/majority-element-ii) Medium
    - Time `O(n)` Space `O(n)`
+6. [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)
+   - Time `O(n)` Space `O(m)`
 
 ### Two Pointers
 
@@ -138,8 +140,6 @@
 
 ## TODO
 
-- https://leetcode.com/problems/longest-substring-without-repeating-characters
-- https://leetcode.com/problems/longest-repeating-character-replacement
 - Optimize `Happy Number` to Space `O(1)` using Floyd’s cycle detection algorithm (Fast and slow pointers)
 - Optimize `Remove Nodes From Linked List`, it can be solved in `O(1)` space
 - https://leetcode.com/problems/lru-cache/

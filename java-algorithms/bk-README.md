@@ -133,6 +133,8 @@
 88. [DONE](https://leetcode.com/problems/maximum-number-of-pairs-in-array)
 89. [DONE](https://leetcode.com/problems/first-unique-character-in-a-string)
 90. [DONE](https://leetcode.com/problems/most-frequent-even-element)
+91. [DONE](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)
+
 
 ## Medium Problems
 
