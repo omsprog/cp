@@ -254,3 +254,4 @@
 83. [DONE](https://leetcode.com/problems/longest-repeating-character-replacement)
 84. [DONE](https://leetcode.com/problems/minimum-size-subarray-sum)
 85. [DONE](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k)
+86. [DONE](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order)

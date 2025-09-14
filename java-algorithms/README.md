@@ -133,7 +133,9 @@
 10. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) Medium
     - Time `O(n)` Space `O(1)` Dynamic sliding window
 11. [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) Medium
-    - Tim `O(n)` Space `O(k)` Fixed sliding window
+    - Time `O(n)` Space `O(k)` Fixed sliding window
+12. [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order) Medium
+    - Time `O(n)` Space `O(1)` Dynamic sliding window
 
 
 ### Math
