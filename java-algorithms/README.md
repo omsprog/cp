@@ -136,7 +136,8 @@
     - Time `O(n)` Space `O(k)` Fixed sliding window
 12. [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order) Medium
     - Time `O(n)` Space `O(1)` Dynamic sliding window
-
+13. [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam) Medium
+    - Time `O(n)` Space `O(1)`
 
 ### Math
 

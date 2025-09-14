@@ -255,3 +255,4 @@
 84. [DONE](https://leetcode.com/problems/minimum-size-subarray-sum)
 85. [DONE](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k)
 86. [DONE](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order)
+87. [DONE](https://leetcode.com/problems/maximize-the-confusion-of-an-exam)
