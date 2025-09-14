@@ -131,7 +131,9 @@
 9. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) Medium
    - Time `O(n)` Space `O(1)` Dynamic sliding window
 10. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) Medium
-   - Time `O(n)` Space `O(1)` Dynamic sliding window
+    - Time `O(n)` Space `O(1)` Dynamic sliding window
+11. [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) Medium
+    - Tim `O(n)` Space `O(k)` Fixed sliding window
 
 
 ### Math

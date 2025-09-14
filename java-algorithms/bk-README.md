@@ -253,3 +253,4 @@
 82. [DONE](https://leetcode.com/problems/k-radius-subarray-averages)
 83. [DONE](https://leetcode.com/problems/longest-repeating-character-replacement)
 84. [DONE](https://leetcode.com/problems/minimum-size-subarray-sum)
+85. [DONE](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k)
