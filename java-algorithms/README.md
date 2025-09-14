@@ -140,6 +140,8 @@
     - Time `O(n)` Space `O(1)` Dynamic sliding window
 14. [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) Medium
     - Time `O(n)` Space `O(1)` Dynamic sliding window
+15. [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) Medium
+    - Time `O(n)` Space `O(1)` Dynamic sliding window
 
 ### Math
 
