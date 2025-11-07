@@ -136,6 +136,7 @@
 91. [DONE](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)
 92. [DONE](https://leetcode.com/problems/sort-the-people)
 93. [DONE](https://leetcode.com/problems/defuse-the-bomb) 
+94. [DONE](https://leetcode.com/problems/maximum-number-of-words-you-can-type)
 
 
 ## Medium Problems

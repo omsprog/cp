@@ -54,6 +54,8 @@
    - Time `O(n)` Space `O(m)`
 7. [Sort the People](https://leetcode.com/problems/sort-the-people) Easy
    - Time `O(n log n)` Space `O(n)`
+8. [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) Easy
+   - Time `O(n + m)` Space `O(m)`
 
 ### Two Pointers
 
