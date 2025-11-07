@@ -25,6 +25,34 @@ The coding interview should be a conversation
 - Getting unstuck: If you find yourself stuck, explain where you are in your thought process. 
 - Thinking time: It's useful to take a moment to thunk about a problem in a period of silence.
 
+## Questions to ask during the recruiter call
+
+- What are each of the steps in the rest of the process?
+- How long does it take to get through the process on average?
+- What to expect during the technical phone screen
+- How long does it take to hear back about next steps
+
+## Good questions to ask
+
+- What does a typical day look like?
+- What is your stack
+- What portion of your time is spent working on new stuff vs existing stuff
+- What are you working on right now
+
+## Throwaway interviews
+
+- Pick companies whose interview styles are as close as possible to your target companies: If you know that your target company asks algorithmic questions, stay away from companies whose primary technical evaluation consists of presenting projects or doing code reviews.
+
+- Choose companies with comparable bars to your target companies
+
+## Post-mortem logs
+
+Finishing a question is where the the long-term learning starts, we can maximize the value of practicing if we take a few minutes to fill out a post-mortem log reflecting on how we did.
+
+- What could I have done differently?
+- What mistakes do I keep making, and how can I adjust my workflow to address them?
+- Is there anything I should add to my cheat sheet?
+
 ## Concepts
 
 Time complexity from worst to best  

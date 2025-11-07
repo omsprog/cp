@@ -135,6 +135,7 @@
 90. [DONE](https://leetcode.com/problems/most-frequent-even-element)
 91. [DONE](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array)
 92. [DONE](https://leetcode.com/problems/sort-the-people)
+93. [DONE](https://leetcode.com/problems/defuse-the-bomb) 
 
 
 ## Medium Problems

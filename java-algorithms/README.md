@@ -144,6 +144,8 @@
     - Time `O(n)` Space `O(1)` Dynamic sliding window
 16. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) Medium
     - Time `O(n)` Space `O(1)` Dynamic sliding window
+17. [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) Easy
+    - Time `O(n)` Space `O(n)` Fixed sliding window
 
 ### Math
 
