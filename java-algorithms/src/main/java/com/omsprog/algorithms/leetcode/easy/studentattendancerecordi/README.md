@@ -8,8 +8,8 @@ If absences reach 2 or late streak reaches 3, return `false`. Otherwise, return 
 
 ## Complexity Analysis
 
-- Time: **O(n)**
-- Space: **O(1)**
+- Time: `O(n)`
+- Space: `O(1)`
 
 ## Notes
 

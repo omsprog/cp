@@ -138,7 +138,7 @@
 93. [DONE](https://leetcode.com/problems/defuse-the-bomb) 
 94. [DONE](https://leetcode.com/problems/maximum-number-of-words-you-can-type)
 95. [DONE](https://leetcode.com/problems/student-attendance-record-i)
-
+96. [DONE](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i)
 
 ## Medium Problems
 

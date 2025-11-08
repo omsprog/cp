@@ -38,7 +38,9 @@
     - Time `O(n)` Space `O(n)`
 18. [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) Easy
     - Time `O(n)` Space `O(1)`
-    
+19. [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i) Easy
+    - Time `O(n ^ 2)` Space `O(n)`    
+
 ### Hash and Set
 
 1. [Two Sum](https://leetcode.com/problems/two-sum) Easy
