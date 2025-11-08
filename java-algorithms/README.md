@@ -1,6 +1,6 @@
 ## Problems
 
-### Arrays
+### Arrays and Strings
 
 1. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) Medium
    - Time `O(n)` Space `O(1)`
@@ -32,10 +32,12 @@
     - Time `O(n)` Space `O(1)`
 15. [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) Easy
     - Time `O(n)` Space `O(n)`
-16. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
+16. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) Easy
     - Time `O(n)` Space `O(1)`
-17. [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element)
+17. [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element) Easy
     - Time `O(n)` Space `O(n)`
+18. [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) Easy
+    - Time `O(n)` Space `O(1)`
     
 ### Hash and Set
 

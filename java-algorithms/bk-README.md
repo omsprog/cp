@@ -1,6 +1,6 @@
 ## Problems
 
-### Array
+### Arrays and Strings
 
 1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) Easy - Feb 9, 2025
 2. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) Medium - Jul 19, 2025
@@ -137,6 +137,7 @@
 92. [DONE](https://leetcode.com/problems/sort-the-people)
 93. [DONE](https://leetcode.com/problems/defuse-the-bomb) 
 94. [DONE](https://leetcode.com/problems/maximum-number-of-words-you-can-type)
+95. [DONE](https://leetcode.com/problems/student-attendance-record-i)
 
 
 ## Medium Problems
