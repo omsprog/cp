@@ -161,6 +161,8 @@
    - Time `O(n)` Space `O(1)`
 3. [Find Closest Person](https://leetcode.com/problems/find-closest-person) Easy
    - Time `O(1)` Space `O(1)`
+4. [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) Easy
+   - Time `O(n)` Space `O(1)`
 
 ## TODO
 

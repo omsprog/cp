@@ -139,6 +139,7 @@
 94. [DONE](https://leetcode.com/problems/maximum-number-of-words-you-can-type)
 95. [DONE](https://leetcode.com/problems/student-attendance-record-i)
 96. [DONE](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i)
+97. [DONE](https://leetcode.com/problems/calculate-money-in-leetcode-bank)
 
 ## Medium Problems
 
