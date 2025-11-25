@@ -153,6 +153,11 @@
 17. [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) Easy
     - Time `O(n)` Space `O(n)` Fixed sliding window
 
+### Binary Search
+
+1. [Binary Search](https://leetcode.com/problems/binary-search) Easy
+    - Time `O(log n)` Space `O(1)`
+
 ### Math
 
 1. [Add Digits](https://leetcode.com/problems/add-digits) Easy
