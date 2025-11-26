@@ -157,6 +157,8 @@
 
 1. [Binary Search](https://leetcode.com/problems/binary-search) Easy
     - Time `O(log n)` Space `O(1)`
+2. [Search Insert Position](https://leetcode.com/problems/search-insert-position) Easy
+    - Time `O(log n)` Space `O(1)`
 
 ### Math
 

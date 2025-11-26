@@ -1,4 +1,4 @@
-package com.omsprog.algorithms.lc;
+package com.omsprog.algorithms.leetcode.easy.binarysearch;
 
 import org.junit.jupiter.api.Test;
 

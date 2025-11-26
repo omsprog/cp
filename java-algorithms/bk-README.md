@@ -41,7 +41,7 @@
 10. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) January 23, 2025
 11. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) January 23, 2025
 12. [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists) January 23, 2025
-13. [Search Insert Position](https://leetcode.com/problems/search-insert-position) January 23, 2025
+13. [DONE](https://leetcode.com/problems/search-insert-position)
 14. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) January 24, 2025
 15. [DONE](https://leetcode.com/problems/middle-of-the-linked-list)
 16. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) February 2, 2025
