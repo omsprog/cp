@@ -40,6 +40,10 @@
     - Time `O(n)` Space `O(1)`
 19. [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i) Easy
     - Time `O(n ^ 2)` Space `O(n)`    
+20. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) Easy
+    - Time `O(m * n)` Space `O(r * c)`
+21. [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) Easy 
+    - Time `O(m * n)` Space `O(m * n)`
 
 ### Hash and Set
 
@@ -71,6 +75,8 @@
 13. [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) Easy
     - Time `O(n + m)` Space `O(n)`
 14. [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) Easy
+    - Time `O(n)` Space `O(1)`
+15. [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) Easy 
     - Time `O(n)` Space `O(1)`
 
 ### Two Pointers
@@ -164,6 +170,8 @@
     - Time `O(n)` Space `O(1)` Dynamic sliding window
 17. [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) Easy
     - Time `O(n)` Space `O(n)` Fixed sliding window
+18. [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) Medium
+    - Time `O(n)` Space `O(n)` Dynamic sliding window
 
 ### Binary Search
 
@@ -186,6 +194,8 @@
    - Time `O(square(candies))` Space `O(numPeople)`
 6. [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) Easy
    - Time `O(max(num1, num2))` Space `O(1)`
+7. [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) Easy
+   - Time `O(d)` Space `O(d)`
 
 ## TODO
 

@@ -147,6 +147,10 @@
 103. [DONE](https://leetcode.com/problems/find-common-characters)
 104. [DONE](https://leetcode.com/problems/minimum-common-value)
 105. [DONE](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences)
+106. [DONE](https://leetcode.com/problems/reshape-the-matrix)
+107. [DONE](https://leetcode.com/problems/convert-1d-array-into-2d-array)
+108. [DONE](https://leetcode.com/problems/count-elements-with-maximum-frequency)
+109. [DONE](https://leetcode.com/problems/maximum-69-number)
 
 ## Medium Problems
 
@@ -270,3 +274,4 @@
 88. [DONE](https://leetcode.com/problems/get-equal-substrings-within-budget)
 89. [DONE](https://leetcode.com/problems/fruit-into-baskets)
 90. [DONE](https://leetcode.com/problems/subarray-product-less-than-k)
+91. [DONE](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency)
