@@ -94,7 +94,7 @@
 57. [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) Mar 8, 2025
 58. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle) Mar 11, 2025
 59. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) Mar 12, 2025
-60. [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) Mar 12, 2025
+60. [DONE](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)
 61. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) Mar 12, 2025
 62. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) Mar 12, 2025
 63. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) Mar 13, 2025
@@ -151,6 +151,8 @@
 107. [DONE](https://leetcode.com/problems/convert-1d-array-into-2d-array)
 108. [DONE](https://leetcode.com/problems/count-elements-with-maximum-frequency)
 109. [DONE](https://leetcode.com/problems/maximum-69-number)
+110. [DONE](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)
+111. [DONE](https://leetcode.com/problems/find-target-indices-after-sorting-array)
 
 ## Medium Problems
 

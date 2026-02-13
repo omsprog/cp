@@ -179,6 +179,12 @@
     - Time `O(log n)` Space `O(1)`
 2. [Search Insert Position](https://leetcode.com/problems/search-insert-position) Easy
     - Time `O(log n)` Space `O(1)`
+3. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) Easy
+    - Time `O(m log n)` Space `O(1)`
+4. [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) Easy
+    - Time `O(log n)` Space `O(1)`
+5. [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) Easy
+   - Time `O(n)` Space `O(1)`
 
 ### Math
 
