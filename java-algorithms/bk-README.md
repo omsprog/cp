@@ -139,6 +139,10 @@
 95. [DONE](https://leetcode.com/problems/student-attendance-record-i)
 96. [DONE](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i)
 97. [DONE](https://leetcode.com/problems/calculate-money-in-leetcode-bank)
+98. [DONE](https://leetcode.com/problems/distribute-candies-to-people)
+99. [DONE](https://leetcode.com/problems/intersection-of-two-arrays)
+100. [DONE](https://leetcode.com/problems/intersection-of-two-arrays-ii)
+101. [DONE](https://leetcode.com/problems/intersection-of-multiple-arrays)
 
 ## Medium Problems
 

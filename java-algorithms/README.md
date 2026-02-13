@@ -60,6 +60,12 @@
    - Time `O(n log n)` Space `O(n)`
 8. [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) Easy
    - Time `O(n + m)` Space `O(m)`
+9. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) Easy
+   - Time `O(n + m)` Space `O(n)`
+10. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) Easy
+    - Time `O(n + m)` Space `O(n)`
+11. [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) Easy
+    - Time `O(T + k log k)` Space `O(U)`
 
 ### Two Pointers
 
@@ -170,6 +176,8 @@
    - Time `O(1)` Space `O(1)`
 4. [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) Easy
    - Time `O(n)` Space `O(1)`
+5. [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) Easy
+   - Time `O(square(candies))` Space `O(numPeople)`
 
 ## TODO
 
