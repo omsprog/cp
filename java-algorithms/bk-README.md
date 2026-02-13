@@ -143,6 +143,10 @@
 99. [DONE](https://leetcode.com/problems/intersection-of-two-arrays)
 100. [DONE](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 101. [DONE](https://leetcode.com/problems/intersection-of-multiple-arrays)
+102. [DONE](https://leetcode.com/problems/count-operations-to-obtain-zero)
+103. [DONE](https://leetcode.com/problems/find-common-characters)
+104. [DONE](https://leetcode.com/problems/minimum-common-value)
+105. [DONE](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences)
 
 ## Medium Problems
 

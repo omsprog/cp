@@ -66,6 +66,12 @@
     - Time `O(n + m)` Space `O(n)`
 11. [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) Easy
     - Time `O(T + k log k)` Space `O(U)`
+12. [Find Common Characters](https://leetcode.com/problems/find-common-characters) Easy
+    - Time `O(N * L)` Space `O(1)`
+13. [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) Easy
+    - Time `O(n + m)` Space `O(n)`
+14. [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) Easy
+    - Time `O(n)` Space `O(1)`
 
 ### Two Pointers
 
@@ -178,6 +184,8 @@
    - Time `O(n)` Space `O(1)`
 5. [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) Easy
    - Time `O(square(candies))` Space `O(numPeople)`
+6. [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) Easy
+   - Time `O(max(num1, num2))` Space `O(1)`
 
 ## TODO
 
