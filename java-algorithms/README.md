@@ -185,6 +185,10 @@
     - Time `O(log n)` Space `O(1)`
 5. [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) Easy
    - Time `O(n)` Space `O(1)`
+6. [First Bad Version](https://leetcode.com/problems/first-bad-version) Easy
+   - Time `O(log n)` Space `O(1)`
+7. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) Medium
+   - Time `O(log n)` Space `O(1)`
 
 ### Math
 

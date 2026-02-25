@@ -133,6 +133,7 @@
 109. [DONE](https://leetcode.com/problems/maximum-69-number)
 110. [DONE](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)
 111. [DONE](https://leetcode.com/problems/find-target-indices-after-sorting-array)
+112. [DONE](https://leetcode.com/problems/first-bad-version)
 
 ## Medium Problems
 
@@ -257,3 +258,4 @@
 89. [DONE](https://leetcode.com/problems/fruit-into-baskets)
 90. [DONE](https://leetcode.com/problems/subarray-product-less-than-k)
 91. [DONE](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency)
+92. [DONE](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
